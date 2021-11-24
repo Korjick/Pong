@@ -44,9 +44,15 @@ public class FighterChoiceController : MonoBehaviour
     private void FighterButton_OnButtonSelected(FighterSO fighterSO)
     {
         if (isSecondPlayerChoice)
+        {
             PlayerData.secondPlayerChosenFighterSO = fighterSO;
+            secondPlayerPreview.sprite = fighterSO.preview;
+        }
         else
+        {
             PlayerData.chosenFighterSO = fighterSO;
+            preview.sprite = fighterSO.preview;
+        }
     }
 
     private void OnDestroy()

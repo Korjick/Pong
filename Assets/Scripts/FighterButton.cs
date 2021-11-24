@@ -24,6 +24,8 @@ public class FighterButton : MonoBehaviour
     public void SetSO(FighterSO fighterSO)
     {
         this.fighterSO = fighterSO;
+        icon.sprite = fighterSO.icon;
+        name.text = fighterSO.name;
     }
 
     private void Button_OnClick()

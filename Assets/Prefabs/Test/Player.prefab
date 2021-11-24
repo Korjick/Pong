@@ -183,9 +183,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc87ec3ef42c56a459431e74d01b3e94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPlayer1: 1
   rigidbody: {fileID: 1079724741424478650}
-  speed: 0.1
+  isPlayer1: 1
+  force: 0.1
 --- !u!50 &1079724741424478650
 Rigidbody2D:
   serializedVersion: 4
@@ -194,11 +194,11 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7402703738419225347}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 1000
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -206,7 +206,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 5
 --- !u!61 &2526589373343517292
 BoxCollider2D:
   m_ObjectHideFlags: 0

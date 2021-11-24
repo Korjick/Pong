@@ -15,4 +15,4 @@ MonoBehaviour:
   icon: {fileID: 21300000, guid: c66df6887daeabc4e942cd5e0eb15751, type: 3}
   preview: {fileID: 21300000, guid: 6a69e38700b56aa4fb731d0061ca50c0, type: 3}
   name: Rhun
-  battlePrefab: {fileID: 0}
+  battlePrefab: {fileID: 7402703738419225347, guid: 5084ee15d9655f34987a19a2ffa43a05, type: 3}
