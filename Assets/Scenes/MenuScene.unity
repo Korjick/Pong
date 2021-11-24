@@ -2534,7 +2534,7 @@ MonoBehaviour:
   preview: {fileID: 1291641194}
   secondPlayerPreview: {fileID: 0}
   startButton: {fileID: 1196405620}
-  GameSceneName: TestBattleScene
+  GameSceneName: ArenaScene
 --- !u!1 &1088851205
 GameObject:
   m_ObjectHideFlags: 0

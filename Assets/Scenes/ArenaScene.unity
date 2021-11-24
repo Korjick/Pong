@@ -505,8 +505,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 949884187}
-  force: 50
-  friction: 0.1
+  force: 500
   animator: {fileID: 949884185}
 --- !u!1 &1087206195
 GameObject:

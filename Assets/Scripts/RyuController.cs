@@ -7,7 +7,6 @@ namespace Assets.Scripts
     {
         [SerializeField] private Rigidbody2D rigidbody;
         [SerializeField] private float force = 100f;
-        [SerializeField] private float friction = .1f;
         [SerializeField] private Animator animator;
 
         private KeyCode _up, _down, _specialPower;
@@ -26,6 +25,7 @@ namespace Assets.Scripts
         private void Movement()
         {
             animator.SetFloat("Speed", rigidbody.velocity.magnitude);
+            rigidbody.velocity = Vector2.zero;
 
             Vector2 move = Vector2.zero;
             if (Input.GetKey(_up))
@@ -33,15 +33,7 @@ namespace Assets.Scripts
             if (Input.GetKey(_down))
                 move += Vector2.down;
             if (move.magnitude > 0.001f)
-            {
                 rigidbody.velocity = move * force;
-            }
-
-            if (rigidbody.velocity.y > friction)
-                rigidbody.velocity -= new Vector2(0, friction);
-            else if (rigidbody.velocity.y < -friction)
-                rigidbody.velocity += new Vector2(0, friction);
-            else rigidbody.velocity = Vector2.zero;
 
             if (Input.GetKey(_specialPower))
             {
