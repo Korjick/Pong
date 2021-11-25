@@ -3,6 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+public class ScottController : PlayerController
+{
+    
+}
+
 public class PlayerController : CharacterController
 {
     private KeyCode _up, _down, _specialPower;
@@ -10,7 +15,7 @@ public class PlayerController : CharacterController
 
     private void SetKeycodes()
     {
-        if (isLeftPlayer)
+        if (IsLeftPlayer)
         {
             _up = KeyCode.W;
             _down = KeyCode.S;
@@ -27,7 +32,7 @@ public class PlayerController : CharacterController
     protected override void Movement()
     {
         base.Movement();
-        rigidbody.velocity = Vector2.zero;
+        _rigidbody.velocity = Vector2.zero;
 
         Vector2 move = Vector2.zero;
         if (Input.GetKey(_up))
@@ -35,7 +40,7 @@ public class PlayerController : CharacterController
         if (Input.GetKey(_down))
             move += Vector2.down;
         if (move.magnitude > 0.001f)
-            rigidbody.velocity = move * force;
+            _rigidbody.velocity = move * force;
 
         if (Input.GetKey(_specialPower))
         {

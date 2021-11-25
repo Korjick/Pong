@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3702222355732701616}
   m_Layer: 5
   m_Name: Down
-  m_TagString: Untagged
+  m_TagString: Border
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 3702222355945578311}
   m_Layer: 5
   m_Name: Up
-  m_TagString: Untagged
+  m_TagString: Border
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -189,9 +189,10 @@ GameObject:
   - component: {fileID: 3702222356917382530}
   - component: {fileID: 3702222356917382531}
   - component: {fileID: 5201762822238250664}
+  - component: {fileID: 3179835299043982663}
   m_Layer: 5
   m_Name: BorderP1
-  m_TagString: Untagged
+  m_TagString: BorderP1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -212,7 +213,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1010.00006, y: 0}
+  m_AnchoredPosition: {x: -1010, y: 0}
   m_SizeDelta: {x: 100, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!61 &3702222356917382531
@@ -253,6 +254,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d560ddb57b446291858b55b565da6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!222 &3179835299043982663
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3702222356917382529}
+  m_CullTransparentMesh: 1
 --- !u!1 &3702222357027082280
 GameObject:
   m_ObjectHideFlags: 0
@@ -264,9 +273,10 @@ GameObject:
   - component: {fileID: 3702222357027082281}
   - component: {fileID: 3702222357027082282}
   - component: {fileID: 920210643663840444}
+  - component: {fileID: 2429046346731363388}
   m_Layer: 5
   m_Name: BorderP2
-  m_TagString: Untagged
+  m_TagString: BorderP2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -287,7 +297,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1009.99994, y: 0}
+  m_AnchoredPosition: {x: 1010, y: 0}
   m_SizeDelta: {x: 100, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!61 &3702222357027082282
@@ -328,3 +338,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d560ddb57b446291858b55b565da6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!222 &2429046346731363388
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3702222357027082280}
+  m_CullTransparentMesh: 1

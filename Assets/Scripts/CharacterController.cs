@@ -1,19 +1,20 @@
 ﻿using UnityEditor.Animations;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class CharacterController : MonoBehaviour
 {
-    [SerializeField] protected Rigidbody2D rigidbody;
+    [FormerlySerializedAs("rigidbody")] [SerializeField] protected Rigidbody2D _rigidbody;
     [SerializeField] protected float force = 700f;
     [SerializeField] protected Animator animator;
 
-    protected bool isLeftPlayer;
+    protected bool IsLeftPlayer;
 
     private void Update() => Movement();
 
     public void Init(bool isLeftPlayer, AnimatorController animatorController)
     {
-        this.isLeftPlayer = isLeftPlayer;
+        IsLeftPlayer = isLeftPlayer;
         animator.runtimeAnimatorController = animatorController;
         if (!isLeftPlayer)
             transform.localScale = new Vector3(-1, 1, 1);
@@ -21,7 +22,7 @@ public class CharacterController : MonoBehaviour
 
     protected virtual void Movement()
     {
-        animator.SetFloat("Speed", rigidbody.velocity.magnitude);
+        animator.SetFloat("Speed", _rigidbody.velocity.magnitude);
     }
 
     private void OnCollisionEnter2D(Collision2D other)
