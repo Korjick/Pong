@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rocksana AOC
+  m_Controller: {fileID: 9100000, guid: b4315d18fd0b4034faaf1b99260fd901, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8d75240fb015d52429afe8a359cf2058, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a146e2a653e1e394da7cad7f5c26cd29, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 630db16f4260bd847aed3f4f70edf4f4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ddd708f3fdd449e43b042d617ee64a33, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fe635aad65caeb948b4e8dc4e2b7502e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 307326a8445c44240ba06367b9160604, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8b5980ddd0cf4ce45b89bd28d4ba3dc8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 436d79bb5f5bf944cbb338414c317ea1, type: 2}

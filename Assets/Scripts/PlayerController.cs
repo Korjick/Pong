@@ -26,7 +26,7 @@ public class PlayerController : CharacterController
 
     protected override void Movement()
     {
-        base.Movement();
+        isMoving = false;
         rigidbody.velocity = Vector2.zero;
 
         Vector2 move = Vector2.zero;
@@ -35,12 +35,17 @@ public class PlayerController : CharacterController
         if (Input.GetKey(_down))
             move += Vector2.down;
         if (move.magnitude > 0.001f)
+        {
+            isMoving = true;
             rigidbody.velocity = move * force;
+        }
 
         if (Input.GetKey(_specialPower))
         {
             Debug.Log("Ryu use Ability");
             animator.SetTrigger("Ability");
         }
+
+        base.Movement();
     }
 }

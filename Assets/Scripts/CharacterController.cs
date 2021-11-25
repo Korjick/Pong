@@ -8,10 +8,11 @@ public class CharacterController : MonoBehaviour
     [SerializeField] protected Animator animator;
 
     protected bool isLeftPlayer;
+    protected bool isMoving;
 
     private void Update() => Movement();
 
-    public void Init(bool isLeftPlayer, AnimatorController animatorController)
+    public void Init(bool isLeftPlayer, AnimatorOverrideController animatorController)
     {
         this.isLeftPlayer = isLeftPlayer;
         animator.runtimeAnimatorController = animatorController;
@@ -21,7 +22,7 @@ public class CharacterController : MonoBehaviour
 
     protected virtual void Movement()
     {
-        animator.SetFloat("Speed", rigidbody.velocity.magnitude);
+        animator.SetBool("IsMoving", isMoving);
     }
 
     private void OnCollisionEnter2D(Collision2D other)

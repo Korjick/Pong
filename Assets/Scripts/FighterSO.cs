@@ -10,6 +10,6 @@ namespace Assets.Scripts
         public Sprite preview;
         public string name;
         public CharacterController battlePrefab;
-        public AnimatorController animator;
+        public AnimatorOverrideController animator;
     }
 }
