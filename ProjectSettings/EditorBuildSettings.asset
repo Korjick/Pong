@@ -12,12 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/PlotScene.unity
     guid: 24017c3facb11b14280bbd2d1451f71d
   - enabled: 1
-    path: Assets/Scenes/ArenaScene.unity
-    guid: 363c38d9fb8ca5f4e8d91d06402edabb
-  - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 12711852dee9e2b46931b356513876e7
   - enabled: 1
     path: Assets/Scenes/TestBattleScene.unity
     guid: 5ddc30d43007ba6449e6460d453b92bc
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerScene.unity
+    guid: f9d272910703227458e04544c31edaca
   m_configObjects: {}

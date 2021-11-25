@@ -24,9 +24,9 @@ public class SkillContainer : MonoBehaviour
 
     private void OpenProgress()
     {
-        if(_idx == 4)
+        if(_idx == 3)
             _key.SetActive(true);
-        if(_idx < 0 || _idx > 3)
+        if(_idx < 0 || _idx > 2)
             return;
         _progress.GetChild(_idx).gameObject.SetActive(true);
         _idx++;
