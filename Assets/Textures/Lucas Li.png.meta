@@ -1,0 +1,6180 @@
+fileFormatVersion: 2
+guid: bf0f46d427b1c2440949492f361657ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4237594231210137919
+    second: Lucas Li_0
+  - first:
+      213: -6857374033803631446
+    second: Lucas Li_1
+  - first:
+      213: 5376277403187439707
+    second: Lucas Li_2
+  - first:
+      213: -6542907192061561217
+    second: Lucas Li_3
+  - first:
+      213: 6234437327585883258
+    second: Lucas Li_4
+  - first:
+      213: -6343252171592598491
+    second: Lucas Li_5
+  - first:
+      213: 2465968554908484339
+    second: Lucas Li_6
+  - first:
+      213: -4576286671909056430
+    second: Lucas Li_7
+  - first:
+      213: -4282405258258899524
+    second: Lucas Li_8
+  - first:
+      213: 338767586280346657
+    second: Lucas Li_9
+  - first:
+      213: -2192488645559653457
+    second: Lucas Li_10
+  - first:
+      213: 961547644108250022
+    second: Lucas Li_11
+  - first:
+      213: -2334062898926800495
+    second: Lucas Li_12
+  - first:
+      213: 7293632154572048882
+    second: Lucas Li_13
+  - first:
+      213: 7289173068265369515
+    second: Lucas Li_14
+  - first:
+      213: 750702191730935911
+    second: Lucas Li_15
+  - first:
+      213: -4098848288272386591
+    second: Lucas Li_16
+  - first:
+      213: 3381933062639378714
+    second: Lucas Li_17
+  - first:
+      213: -7650117585789931543
+    second: Lucas Li_18
+  - first:
+      213: -4186063062220253821
+    second: Lucas Li_19
+  - first:
+      213: 3410070870672274669
+    second: Lucas Li_20
+  - first:
+      213: 5717053385380243167
+    second: Lucas Li_21
+  - first:
+      213: 1552275088791011518
+    second: Lucas Li_22
+  - first:
+      213: 2383400804171469086
+    second: Lucas Li_23
+  - first:
+      213: 7531566167360861345
+    second: Lucas Li_24
+  - first:
+      213: 4493643402921488484
+    second: Lucas Li_25
+  - first:
+      213: 773807479741820330
+    second: Lucas Li_26
+  - first:
+      213: -2368336626152933210
+    second: Lucas Li_27
+  - first:
+      213: 244778795511343492
+    second: Lucas Li_28
+  - first:
+      213: -721266848831594048
+    second: Lucas Li_29
+  - first:
+      213: -4131626275697300670
+    second: Lucas Li_30
+  - first:
+      213: -4048171559184419862
+    second: Lucas Li_31
+  - first:
+      213: 2775657132018298238
+    second: Lucas Li_32
+  - first:
+      213: 4622482976215101469
+    second: Lucas Li_33
+  - first:
+      213: -8759576052022020102
+    second: Lucas Li_34
+  - first:
+      213: 3967328935401698914
+    second: Lucas Li_35
+  - first:
+      213: 2784089318820664923
+    second: Lucas Li_36
+  - first:
+      213: -475650093335993485
+    second: Lucas Li_37
+  - first:
+      213: 4543712531603974968
+    second: Lucas Li_38
+  - first:
+      213: -6460721893947848029
+    second: Lucas Li_39
+  - first:
+      213: -4108153514277499094
+    second: Lucas Li_40
+  - first:
+      213: -7608461242129254481
+    second: Lucas Li_41
+  - first:
+      213: -2810083348445845993
+    second: Lucas Li_42
+  - first:
+      213: -1257384466178289615
+    second: Lucas Li_43
+  - first:
+      213: 7326432542592244061
+    second: Lucas Li_44
+  - first:
+      213: 249422254788914133
+    second: Lucas Li_45
+  - first:
+      213: -3246586127404446764
+    second: Lucas Li_46
+  - first:
+      213: 808661809404848380
+    second: Lucas Li_47
+  - first:
+      213: 8484102679827777847
+    second: Lucas Li_48
+  - first:
+      213: 7160166264680450811
+    second: Lucas Li_49
+  - first:
+      213: -8159186148799126533
+    second: Lucas Li_50
+  - first:
+      213: 7272451804259174875
+    second: Lucas Li_51
+  - first:
+      213: -7608601091702150421
+    second: Lucas Li_52
+  - first:
+      213: 6171167493968778084
+    second: Lucas Li_53
+  - first:
+      213: -8687101508041714620
+    second: Lucas Li_54
+  - first:
+      213: -1798718157916028200
+    second: Lucas Li_55
+  - first:
+      213: 6700536752043347931
+    second: Lucas Li_56
+  - first:
+      213: -6754460677312457775
+    second: Lucas Li_57
+  - first:
+      213: -153048711405034908
+    second: Lucas Li_58
+  - first:
+      213: 3238756215298847077
+    second: Lucas Li_59
+  - first:
+      213: -3655423182466845096
+    second: Lucas Li_60
+  - first:
+      213: 2787800759204821706
+    second: Lucas Li_61
+  - first:
+      213: 4112764777678543327
+    second: Lucas Li_62
+  - first:
+      213: -5526788469024349136
+    second: Lucas Li_63
+  - first:
+      213: 8801097693911933458
+    second: Lucas Li_64
+  - first:
+      213: 2315309993074686665
+    second: Lucas Li_65
+  - first:
+      213: 8448151079020277670
+    second: Lucas Li_66
+  - first:
+      213: -8710267444506836291
+    second: Lucas Li_67
+  - first:
+      213: -3819282363657922756
+    second: Lucas Li_68
+  - first:
+      213: -9027150332432801505
+    second: Lucas Li_69
+  - first:
+      213: -6407037611986027110
+    second: Lucas Li_70
+  - first:
+      213: -8972442374718179138
+    second: Lucas Li_71
+  - first:
+      213: -250869018284328598
+    second: Lucas Li_72
+  - first:
+      213: 7163348618359320339
+    second: Lucas Li_73
+  - first:
+      213: 2662087980711925647
+    second: Lucas Li_74
+  - first:
+      213: 168533038056668513
+    second: Lucas Li_75
+  - first:
+      213: -5255264757516589187
+    second: Lucas Li_76
+  - first:
+      213: 5360464155285782770
+    second: Lucas Li_77
+  - first:
+      213: 4471832408922657764
+    second: Lucas Li_78
+  - first:
+      213: 6951393222850260724
+    second: Lucas Li_79
+  - first:
+      213: 2607064842617431803
+    second: Lucas Li_80
+  - first:
+      213: -420737322616113398
+    second: Lucas Li_81
+  - first:
+      213: 1903483331407289208
+    second: Lucas Li_82
+  - first:
+      213: -7426877518837396604
+    second: Lucas Li_83
+  - first:
+      213: -7313681612854799679
+    second: Lucas Li_84
+  - first:
+      213: -4477244993520428042
+    second: Lucas Li_85
+  - first:
+      213: 24427303727283356
+    second: Lucas Li_86
+  - first:
+      213: -885804414130919367
+    second: Lucas Li_87
+  - first:
+      213: 5328002336135637505
+    second: Lucas Li_88
+  - first:
+      213: -5770513001150014876
+    second: Lucas Li_89
+  - first:
+      213: 7649743055707488444
+    second: Lucas Li_90
+  - first:
+      213: 7323062474185155473
+    second: Lucas Li_91
+  - first:
+      213: 8887308771336674754
+    second: Lucas Li_92
+  - first:
+      213: -1739345688178250605
+    second: Lucas Li_93
+  - first:
+      213: 2566288569981961364
+    second: Lucas Li_94
+  - first:
+      213: -2270977761018415437
+    second: Lucas Li_95
+  - first:
+      213: -3723777705836732344
+    second: Lucas Li_96
+  - first:
+      213: -5493836943555882501
+    second: Lucas Li_97
+  - first:
+      213: 7554782196129048629
+    second: Lucas Li_98
+  - first:
+      213: 5886092872619113978
+    second: Lucas Li_99
+  - first:
+      213: -3146934531865800004
+    second: Lucas Li_100
+  - first:
+      213: -5720862759951440355
+    second: Lucas Li_101
+  - first:
+      213: 5859187420039392088
+    second: Lucas Li_102
+  - first:
+      213: -8070458201124609701
+    second: Lucas Li_103
+  - first:
+      213: -297262758612812105
+    second: Lucas Li_104
+  - first:
+      213: 6944892525446214928
+    second: Lucas Li_105
+  - first:
+      213: 8239093875805258045
+    second: Lucas Li_106
+  - first:
+      213: 570992314328053265
+    second: Lucas Li_107
+  - first:
+      213: 3105583612131010864
+    second: Lucas Li_108
+  - first:
+      213: 8350135025574013089
+    second: Lucas Li_109
+  - first:
+      213: -15416639655838245
+    second: Lucas Li_110
+  - first:
+      213: -602142326216976820
+    second: Lucas Li_111
+  - first:
+      213: 8511190225875812302
+    second: Lucas Li_112
+  - first:
+      213: 8723422289904303955
+    second: Lucas Li_113
+  - first:
+      213: 7122692236335356057
+    second: Lucas Li_114
+  - first:
+      213: -4080473765405263383
+    second: Lucas Li_115
+  - first:
+      213: -7102795743477726416
+    second: Lucas Li_116
+  - first:
+      213: -5273491246942263981
+    second: Lucas Li_117
+  - first:
+      213: -6604426218823324590
+    second: Lucas Li_118
+  - first:
+      213: -7226238020642167375
+    second: Lucas Li_119
+  - first:
+      213: 8371364521961130101
+    second: Lucas Li_120
+  - first:
+      213: -6962882814282292139
+    second: Lucas Li_121
+  - first:
+      213: 9134739721406845461
+    second: Lucas Li_122
+  - first:
+      213: 3381470347964192199
+    second: Lucas Li_123
+  - first:
+      213: 8193696263368017365
+    second: Lucas Li_124
+  - first:
+      213: -192790314899309933
+    second: Lucas Li_125
+  - first:
+      213: -1264663740211171720
+    second: Lucas Li_126
+  - first:
+      213: -8361724180898311916
+    second: Lucas Li_127
+  - first:
+      213: 7744738689798953988
+    second: Lucas Li_128
+  - first:
+      213: -1879925043680473510
+    second: Lucas Li_129
+  - first:
+      213: -8904095754697287416
+    second: Lucas Li_130
+  - first:
+      213: 5049632692437506070
+    second: Lucas Li_131
+  - first:
+      213: -6888497914571192877
+    second: Lucas Li_132
+  - first:
+      213: 410544352050524154
+    second: Lucas Li_133
+  - first:
+      213: 5268238624149786444
+    second: Lucas Li_134
+  - first:
+      213: 1184078792412465622
+    second: Lucas Li_135
+  - first:
+      213: -1208853438643265649
+    second: Lucas Li_136
+  - first:
+      213: 467867837525986596
+    second: Lucas Li_137
+  - first:
+      213: -5017806498872247679
+    second: Lucas Li_138
+  - first:
+      213: 6471866140861555951
+    second: Lucas Li_139
+  - first:
+      213: 3162097358362255365
+    second: Lucas Li_140
+  - first:
+      213: -1899563347677192638
+    second: Lucas Li_141
+  - first:
+      213: -4895954152544348479
+    second: Lucas Li_142
+  - first:
+      213: 4943243724887047726
+    second: Lucas Li_143
+  - first:
+      213: -1956157885328304401
+    second: Lucas Li_144
+  - first:
+      213: 176295822804141247
+    second: Lucas Li_145
+  - first:
+      213: -9016262184157377605
+    second: Lucas Li_146
+  - first:
+      213: 286332873472999778
+    second: Lucas Li_147
+  - first:
+      213: 5901810363383471744
+    second: Lucas Li_148
+  - first:
+      213: -5049517533986893018
+    second: Lucas Li_149
+  - first:
+      213: 2087274329151123802
+    second: Lucas Li_150
+  - first:
+      213: 4219343753095295969
+    second: Lucas Li_151
+  - first:
+      213: -1111413636095102020
+    second: Lucas Li_152
+  - first:
+      213: -2975740712674626042
+    second: Lucas Li_153
+  - first:
+      213: 4694359824863292296
+    second: Lucas Li_154
+  - first:
+      213: -8448908548648889591
+    second: Lucas Li_155
+  - first:
+      213: 4383329496079229303
+    second: Lucas Li_156
+  - first:
+      213: -3151244848586558406
+    second: Lucas Li_157
+  - first:
+      213: 3178450137202721682
+    second: Lucas Li_158
+  - first:
+      213: -5322261112995796009
+    second: Lucas Li_159
+  - first:
+      213: -6087710381844653767
+    second: Lucas Li_160
+  - first:
+      213: -7045775351683355970
+    second: Lucas Li_161
+  - first:
+      213: -9190104669760929342
+    second: Lucas Li_162
+  - first:
+      213: -3420081875249641071
+    second: Lucas Li_163
+  - first:
+      213: 8322880042620480630
+    second: Lucas Li_164
+  - first:
+      213: -5243101583542617436
+    second: Lucas Li_165
+  - first:
+      213: 334248711042837882
+    second: Lucas Li_166
+  - first:
+      213: -1954769706766254323
+    second: Lucas Li_167
+  - first:
+      213: 3591002137591990163
+    second: Lucas Li_168
+  - first:
+      213: 1836426430566781701
+    second: Lucas Li_169
+  - first:
+      213: -5908672541790049079
+    second: Lucas Li_170
+  - first:
+      213: 7075441174663460561
+    second: Lucas Li_171
+  - first:
+      213: -7555851696832765724
+    second: Lucas Li_172
+  - first:
+      213: -5681128137377103254
+    second: Lucas Li_173
+  - first:
+      213: 7043064336191181253
+    second: Lucas Li_174
+  - first:
+      213: 8583953520023193090
+    second: Lucas Li_175
+  - first:
+      213: -5779742703313902893
+    second: Lucas Li_176
+  - first:
+      213: 6200279973497531977
+    second: Lucas Li_177
+  - first:
+      213: -7665401143741756703
+    second: Lucas Li_178
+  - first:
+      213: 3979862685409715457
+    second: Lucas Li_179
+  - first:
+      213: 5936916902777609541
+    second: Lucas Li_180
+  - first:
+      213: -8017763482349107099
+    second: Lucas Li_181
+  - first:
+      213: -4738554879033786229
+    second: Lucas Li_182
+  - first:
+      213: 1938356278171326159
+    second: Lucas Li_183
+  - first:
+      213: -6923040831253950341
+    second: Lucas Li_184
+  - first:
+      213: -8284487851820114901
+    second: Lucas Li_185
+  - first:
+      213: -5832762262970206815
+    second: Lucas Li_186
+  - first:
+      213: -7687487656864399470
+    second: Lucas Li_187
+  - first:
+      213: -2954062484453293002
+    second: Lucas Li_188
+  - first:
+      213: 4327974740397572659
+    second: Lucas Li_189
+  - first:
+      213: 4198926504837327246
+    second: Lucas Li_190
+  - first:
+      213: 108542730160224507
+    second: Lucas Li_191
+  - first:
+      213: 9127153867022221883
+    second: Lucas Li_192
+  - first:
+      213: -703208621735902562
+    second: Lucas Li_193
+  - first:
+      213: 4357538202639143333
+    second: Lucas Li_194
+  - first:
+      213: -9115952144031449045
+    second: Lucas Li_195
+  - first:
+      213: 1065654003043460810
+    second: Lucas Li_196
+  - first:
+      213: 3478425602199183940
+    second: Lucas Li_197
+  - first:
+      213: 6908517253421781554
+    second: Lucas Li_198
+  - first:
+      213: -1415299001035969710
+    second: Lucas Li_199
+  - first:
+      213: -8705707014588956495
+    second: Lucas Li_200
+  - first:
+      213: -9165306189671947884
+    second: Lucas Li_201
+  - first:
+      213: 2690953196679663426
+    second: Lucas Li_202
+  - first:
+      213: 4875715671694237755
+    second: Lucas Li_203
+  - first:
+      213: -7092637240234425604
+    second: Lucas Li_204
+  - first:
+      213: -377103404678412978
+    second: Lucas Li_205
+  - first:
+      213: -6655616800874616118
+    second: Lucas Li_206
+  - first:
+      213: 7526256455407548232
+    second: Lucas Li_207
+  - first:
+      213: -692422892584598664
+    second: Lucas Li_208
+  - first:
+      213: -4703091411919653714
+    second: Lucas Li_209
+  - first:
+      213: 8452807376733158799
+    second: Lucas Li_210
+  - first:
+      213: -2079651166551419233
+    second: Lucas Li_211
+  - first:
+      213: 2402888354606522946
+    second: Lucas Li_212
+  - first:
+      213: -1499284830952565833
+    second: Lucas Li_213
+  - first:
+      213: -8573126419668481635
+    second: Lucas Li_214
+  - first:
+      213: -589691326009008178
+    second: Lucas Li_215
+  - first:
+      213: -607260689569548075
+    second: Lucas Li_216
+  - first:
+      213: 8757001473472037073
+    second: Lucas Li_217
+  - first:
+      213: -7697446279545156125
+    second: Lucas Li_218
+  - first:
+      213: -2468370385463851549
+    second: Lucas Li_219
+  - first:
+      213: -9119849478289644562
+    second: Lucas Li_220
+  - first:
+      213: -9066840872314329752
+    second: Lucas Li_221
+  - first:
+      213: 1480954705352194567
+    second: Lucas Li_222
+  - first:
+      213: -3740880016728189115
+    second: Lucas Li_223
+  - first:
+      213: 3347443868390393837
+    second: Lucas Li_224
+  - first:
+      213: 3649043448983962078
+    second: Lucas Li_225
+  - first:
+      213: -167516384314445421
+    second: Lucas Li_226
+  - first:
+      213: -9097677464204538460
+    second: Lucas Li_227
+  - first:
+      213: -1516540656467297163
+    second: Lucas Li_228
+  - first:
+      213: -4390183020164088961
+    second: Lucas Li_229
+  - first:
+      213: 2820678261298287516
+    second: Lucas Li_230
+  - first:
+      213: -6323515738520048491
+    second: Lucas Li_231
+  - first:
+      213: -25847811716652611
+    second: Lucas Li_232
+  - first:
+      213: 5176781489632163900
+    second: Lucas Li_233
+  - first:
+      213: 4597123441838964260
+    second: Lucas Li_234
+  - first:
+      213: 2091818688067259301
+    second: Lucas Li_235
+  - first:
+      213: -3508183386850743702
+    second: Lucas Li_236
+  - first:
+      213: -8052716512384555765
+    second: Lucas Li_237
+  - first:
+      213: 7381971720581233147
+    second: Lucas Li_238
+  - first:
+      213: -1411695515591563923
+    second: Lucas Li_239
+  - first:
+      213: -3262233334134096254
+    second: Lucas Li_240
+  - first:
+      213: -1268141329028941480
+    second: Lucas Li_241
+  - first:
+      213: 1659623449949571005
+    second: Lucas Li_242
+  - first:
+      213: 8676994410424060849
+    second: Lucas Li_243
+  - first:
+      213: 7012666263646251643
+    second: Lucas Li_244
+  - first:
+      213: -5556073200373350570
+    second: Lucas Li_245
+  - first:
+      213: -4174819570037374969
+    second: Lucas Li_246
+  - first:
+      213: 3823188286670187353
+    second: Lucas Li_247
+  - first:
+      213: 1370427482522653371
+    second: Lucas Li_248
+  - first:
+      213: 8239986905117200449
+    second: Lucas Li_249
+  - first:
+      213: 4431566604192694115
+    second: Lucas Li_250
+  - first:
+      213: 2689343529355272141
+    second: Lucas Li_251
+  - first:
+      213: -5150569516601032138
+    second: Lucas Li_252
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucas Li_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2401
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3956856085feca30800000000000000
+      internalID: 4237594231210137919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2401
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4a52fe5a6b5d0a0800000000000000
+      internalID: -6857374033803631446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2401
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5862fe30df5c9a40800000000000000
+      internalID: 5376277403187439707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2401
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7672da139ce235a0800000000000000
+      internalID: -6542907192061561217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2324
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74313dc7bb258650800000000000000
+      internalID: 6234437327585883258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2324
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7f7702cd38f7a0800000000000000
+      internalID: -6343252171592598491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2324
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28a9ed551e83220800000000000000
+      internalID: 2465968554908484339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2509182a483cd70c0800000000000000
+      internalID: -4576286671909056430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2323
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd96355b17d194c0800000000000000
+      internalID: -4282405258258899524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2322
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12418a9235b83b400800000000000000
+      internalID: 338767586280346657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2322
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe6537137b291e0800000000000000
+      internalID: -2192488645559653457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2348
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9fa1ec7a185d00800000000000000
+      internalID: 961547644108250022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2321
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191bc0ae82ebb9fd0800000000000000
+      internalID: -2334062898926800495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2321
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f942af1dcf283560800000000000000
+      internalID: 7293632154572048882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2363
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2d403948582560800000000000000
+      internalID: 7289173068265369515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2321
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ca3e7aa70b6a00800000000000000
+      internalID: 750702191730935911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_16
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57e4dc237fd17c0800000000000000
+      internalID: -4098848288272386591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_17
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2321
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11e4c4c33a0fee20800000000000000
+      internalID: 3381933062639378714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_18
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2371
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa509769255d590800000000000000
+      internalID: -7650117585789931543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_19
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2322
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855af8d2dd18e5c0800000000000000
+      internalID: -4186063062220253821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_20
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f359b361035f20800000000000000
+      internalID: 3410070870672274669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_21
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2321
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a88583cd075f40800000000000000
+      internalID: 5717053385380243167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_22
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0831d08f9ca8510800000000000000
+      internalID: 1552275088791011518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_23
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2313
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115502576a831120800000000000000
+      internalID: 2383400804171469086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_24
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2361
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4f4e7768f758860800000000000000
+      internalID: 7531566167360861345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2232
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b96addd0ac5e30800000000000000
+      internalID: 4493643402921488484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2232
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2d829dcd1dba00800000000000000
+      internalID: 773807479741820330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2232
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a87b91f26af12fd0800000000000000
+      internalID: -2368336626152933210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2232
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48960038401a56300800000000000000
+      internalID: 244778795511343492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2232
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a0275f9b8df5f0800000000000000
+      internalID: -721266848831594048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2232
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b6464eac389a6c0800000000000000
+      internalID: -4131626275697300670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2232
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae339f04a6102d7c0800000000000000
+      internalID: -4048171559184419862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_32
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2232
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dea3c947d158620800000000000000
+      internalID: 2775657132018298238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2232
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107791a6cb562040800000000000000
+      internalID: 4622482976215101469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2232
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7753cadfbbf6680800000000000000
+      internalID: -8759576052022020102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2232
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663fbd95a8ce0730800000000000000
+      internalID: 3967328935401698914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_36
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2232
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d3471c7213a620800000000000000
+      internalID: 2784089318820664923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_37
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2234
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a35d92c62669f0800000000000000
+      internalID: -475650093335993485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2141
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83beebf49728e0f30800000000000000
+      internalID: 4543712531603974968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2140
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa46a6faa7e656a0800000000000000
+      internalID: -6460721893947848029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2140
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f87ba0528ecf6c0800000000000000
+      internalID: -4108153514277499094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2140
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7fe87cfc0596690800000000000000
+      internalID: -7608461242129254481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2141
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71625a245149009d0800000000000000
+      internalID: -2810083348445845993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2141
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130595b6d7fdc8ee0800000000000000
+      internalID: -1257384466178289615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_44
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2141
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5992149497bca560800000000000000
+      internalID: 7326432542592244061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_45
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2139
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db25cf1830267300800000000000000
+      internalID: 249422254788914133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_46
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2139
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbc8574e1fc1f2d0800000000000000
+      internalID: -3246586127404446764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2139
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8200591a1f83b00800000000000000
+      internalID: 808661809404848380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_48
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2141
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390315cf669db570800000000000000
+      internalID: 8484102679827777847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_49
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2141
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa830318450e5360800000000000000
+      internalID: 7160166264680450811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2041
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf36a884d6fb4ce80800000000000000
+      internalID: -8159186148799126533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2054
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd944078260fce460800000000000000
+      internalID: 7272451804259174875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2043
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaa1738e91d86690800000000000000
+      internalID: -7608601091702150421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2043
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4635277b32464a550800000000000000
+      internalID: 6171167493968778084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2055
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d9656437317780800000000000000
+      internalID: -8687101508041714620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_55
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2041
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2ce5a8d5ba907e0800000000000000
+      internalID: -1798718157916028200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2041
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4efdcca61dfc50800000000000000
+      internalID: 6700536752043347931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2054
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d35277fcc55342a0800000000000000
+      internalID: -6754460677312457775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_58
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2043
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622f53020340edf0800000000000000
+      internalID: -153048711405034908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2043
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f9fe3e9f52fc20800000000000000
+      internalID: 3238756215298847077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_60
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2054
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f5599bf3554dc0800000000000000
+      internalID: -3655423182466845096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_61
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2041
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acab7f4250240b620800000000000000
+      internalID: 2787800759204821706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1932
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9944266c9731930800000000000000
+      internalID: 4112764777678543327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1942
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034241b6b27ec43b0800000000000000
+      internalID: -5526788469024349136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1948
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212612fe8b7c32a70800000000000000
+      internalID: 8801097693911933458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1958
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf022fb22a12020800000000000000
+      internalID: 2315309993074686665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_66
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1962
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af26d965acdd3570800000000000000
+      internalID: 8448151079020277670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_67
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1958
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2458f78e9ee1780800000000000000
+      internalID: -8710267444506836291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_68
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1950
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c375149fcee2ffac0800000000000000
+      internalID: -3819282363657922756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_69
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1942
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112b4db99e19b280800000000000000
+      internalID: -9027150332432801505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_70
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1932
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d7103ec31a517a0800000000000000
+      internalID: -6407037611986027110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_71
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1932
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8b24fb23b7b7380800000000000000
+      internalID: -8972442374718179138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1830
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69f20005fbb48cf0800000000000000
+      internalID: -250869018284328598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1830
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa7978d93596360800000000000000
+      internalID: 7163348618359320339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1830
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87db230ae2a1f420800000000000000
+      internalID: 2662087980711925647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1829
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df84ab7efb65200800000000000000
+      internalID: 168533038056668513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_76
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1829
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77289feb8c8117b0800000000000000
+      internalID: -5255264757516589187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1829
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0060f8fb1346a40800000000000000
+      internalID: 5360464155285782770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_78
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1829
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e31ae412e32f0e30800000000000000
+      internalID: 4471832408922657764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_79
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1829
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe2c0e5e4f487060800000000000000
+      internalID: 6951393222850260724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1735
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf62f9a59a72e2420800000000000000
+      internalID: 2607064842617431803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1735
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07b7bd52ad392af0800000000000000
+      internalID: -420737322616113398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1735
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b986c31088a6a10800000000000000
+      internalID: 1903483331407289208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1735
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bcc53fe3e6ee890800000000000000
+      internalID: -7426877518837396604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_84
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1735
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2db799255908a90800000000000000
+      internalID: -7313681612854799679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1735
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb91dc5661add1c0800000000000000
+      internalID: -4477244993520428042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1627
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3c79d088c65000800000000000000
+      internalID: 24427303727283356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_87
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1627
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e04b149df4b3f0800000000000000
+      internalID: -885804414130919367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_88
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1627
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae0df45edd0f940800000000000000
+      internalID: 5328002336135637505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_89
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1627
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a1eaabff40befa0800000000000000
+      internalID: -5770513001150014876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_90
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1627
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0c47277c8592a60800000000000000
+      internalID: 7649743055707488444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1627
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193acc1658eb0a560800000000000000
+      internalID: 7323062474185155473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_92
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1627
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd5cb49d30165b70800000000000000
+      internalID: 8887308771336674754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_93
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1627
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2782ef4a9cd7e0800000000000000
+      internalID: -1739345688178250605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_94
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1528
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948bec8bd94d9320800000000000000
+      internalID: 2566288569981961364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_95
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1528
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67fad22cddb70e0800000000000000
+      internalID: -2270977761018415437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1528
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840251de7eb725cc0800000000000000
+      internalID: -3723777705836732344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_97
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1528
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11f6d4868f1c3b0800000000000000
+      internalID: -5493836943555882501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_98
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1528
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538a7b3616af7d860800000000000000
+      internalID: 7554782196129048629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1528
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbb63284a9fa150800000000000000
+      internalID: 5886092872619113978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1441
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb29ab867b7d354d0800000000000000
+      internalID: -3146934531865800004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1441
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16655851a96b90b0800000000000000
+      internalID: -5720862759951440355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_102
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1441
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ba2eb4ae3005150800000000000000
+      internalID: 5859187420039392088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1441
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5164537609ffff80800000000000000
+      internalID: -8070458201124609701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_104
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1353
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3ee39819efdbf0800000000000000
+      internalID: -297262758612812105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1353
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015bc7ec4f6316060800000000000000
+      internalID: 6944892525446214928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1353
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31087a3a34275270800000000000000
+      internalID: 8239093875805258045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_107
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1353
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11670011c729ce700800000000000000
+      internalID: 570992314328053265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_108
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1353
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039e75557df391b20800000000000000
+      internalID: 3105583612131010864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_109
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1353
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e2e99093a1e370800000000000000
+      internalID: 8350135025574013089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1270
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddfeadd5aa39cff0800000000000000
+      internalID: -15416639655838245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_111
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1270
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c461c9d9eb2c4a7f0800000000000000
+      internalID: -602142326216976820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_112
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1270
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfba1d8a62dd1670800000000000000
+      internalID: 8511190225875812302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_113
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1270
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f787f9a52df0970800000000000000
+      internalID: 8723422289904303955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1187
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998933fe9d2e8d260800000000000000
+      internalID: 7122692236335356057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1187
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9f7b9cabe3f57c0800000000000000
+      internalID: -4080473765405263383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_116
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1187
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338add47eccd6d90800000000000000
+      internalID: -7102795743477726416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_117
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1187
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355efdba6abc0d6b0800000000000000
+      internalID: -5273491246942263981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_118
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1187
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c62c1885d5854a0800000000000000
+      internalID: -6604426218823324590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_119
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1187
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a3357ece37bb90800000000000000
+      internalID: -7226238020642167375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_120
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1070
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780dc8edaf0d2470800000000000000
+      internalID: 8371364521961130101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1070
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554280aa8fede5f90800000000000000
+      internalID: -6962882814282292139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_122
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1070
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121b12f06d15ce70800000000000000
+      internalID: 9134739721406845461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_123
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1070
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c51cec9d556dee20800000000000000
+      internalID: 3381470347964192199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 962
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d50f77e65bd5b170800000000000000
+      internalID: 8193696263368017365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 962
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a7a44ea32135df0800000000000000
+      internalID: -192790314899309933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_126
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 962
+        width: 109
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e656c5703037ee0800000000000000
+      internalID: -1264663740211171720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_127
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 962
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41113c7e82035fb80800000000000000
+      internalID: -8361724180898311916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_128
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 962
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd0b31ec6da7b60800000000000000
+      internalID: 7744738689798953988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 962
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e801f022a29e5e0800000000000000
+      internalID: -1879925043680473510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_130
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 962
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8095437461c4e6480800000000000000
+      internalID: -8904095754697287416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_131
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 962
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618dfeefd26e31640800000000000000
+      internalID: 5049632692437506070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_132
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 962
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d507fdb4a32760a0800000000000000
+      internalID: -6888497914571192877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_133
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 867
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa38cb9eb82b500800000000000000
+      internalID: 410544352050524154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_134
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 867
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc078cd1b8c1940800000000000000
+      internalID: 5268238624149786444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_135
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 867
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d981df5361be6010800000000000000
+      internalID: 1184078792412465622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_136
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 867
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f982cc33a493fe0800000000000000
+      internalID: -1208853438643265649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 867
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0191c1533e7600800000000000000
+      internalID: 467867837525986596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_138
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 867
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab213239b2d5ab0800000000000000
+      internalID: -5017806498872247679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_139
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 867
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46ee737ffa0d950800000000000000
+      internalID: 6471866140861555951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_140
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 867
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500226e3bc602eb20800000000000000
+      internalID: 3162097358362255365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_141
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 867
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e5959133563a5e0800000000000000
+      internalID: -1899563347677192638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_142
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 867
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6defc53a31e0cb0800000000000000
+      internalID: -4895954152544348479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_143
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 867
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e32143afde99440800000000000000
+      internalID: 4943243724887047726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_144
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 867
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe65d6874c45ad4e0800000000000000
+      internalID: -1956157885328304401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_145
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 867
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb440a5ed14527200800000000000000
+      internalID: 176295822804141247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_146
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 867
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb038f405dcfd280800000000000000
+      internalID: -9016262184157377605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_147
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 777
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26100ea3b3249f300800000000000000
+      internalID: 286332873472999778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_148
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 777
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ed031a14177e150800000000000000
+      internalID: 5901810363383471744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_149
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 689
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623da9b6e828ce9b0800000000000000
+      internalID: -5049517533986893018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_150
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 689
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5138d981fc77fc10800000000000000
+      internalID: 2087274329151123802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_151
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 689
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e33284d9ce1e8a30800000000000000
+      internalID: 4219343753095295969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_152
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 689
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b60ebf277390f0800000000000000
+      internalID: -1111413636095102020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 689
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067c55869b04b6d0800000000000000
+      internalID: -2975740712674626042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_154
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 689
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b67d09367b52140800000000000000
+      internalID: 4694359824863292296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_155
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 689
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903950270727fba80800000000000000
+      internalID: -8448908548648889591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_156
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 688
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716b4be3f6b4dc30800000000000000
+      internalID: 4383329496079229303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_157
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 689
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f7b791878444d0800000000000000
+      internalID: -3151244848586558406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_158
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 689
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29382444f8f1c1c20800000000000000
+      internalID: 3178450137202721682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_159
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 689
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba20e57b78326b0800000000000000
+      internalID: -5322261112995796009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_160
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 689
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93911ba69ab148ba0800000000000000
+      internalID: -6087710381844653767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_161
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 689
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebae5b3d5a0683e90800000000000000
+      internalID: -7045775351683355970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_162
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 689
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1cd3e7e70367080800000000000000
+      internalID: -9190104669760929342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_163
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 566
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994ef2a7ad6980d0800000000000000
+      internalID: -3420081875249641071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_164
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 574
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ce4906d4fc08370800000000000000
+      internalID: 8322880042620480630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_165
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 590
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa77af83e2cc37b0800000000000000
+      internalID: -5243101583542617436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_166
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 604
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d27588e6d73a400800000000000000
+      internalID: 334248711042837882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_167
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 617
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb08afe434fd4e0800000000000000
+      internalID: -1954769706766254323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_168
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 560
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c6de0b6dc5d130800000000000000
+      internalID: 3591002137591990163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_169
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 560
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503521adb1c4c7910800000000000000
+      internalID: 1836426430566781701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_170
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 560
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccef74f0ad200ea0800000000000000
+      internalID: -5908672541790049079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_171
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 559
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6fcf4d244013260800000000000000
+      internalID: 7075441174663460561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_172
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 456
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e020c21ae8342790800000000000000
+      internalID: -7555851696832765724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 86
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6249281f049821b0800000000000000
+      internalID: -5681128137377103254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_174
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 457
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d5e0b2bdfdb160800000000000000
+      internalID: 7043064336191181253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_175
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 456
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20642792f34502770800000000000000
+      internalID: 8583953520023193090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_176
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 456
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a1db32aa3acfa0800000000000000
+      internalID: -5779742703313902893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_177
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 456
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee94019c1db0650800000000000000
+      internalID: 6200279973497531977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 459
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4666d5460f9590800000000000000
+      internalID: -7665401143741756703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_179
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 459
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ada2b6005b3730800000000000000
+      internalID: 3979862685409715457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_180
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 459
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d521bc77a246250800000000000000
+      internalID: 5936916902777609541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_181
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 459
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5688b7db79e2bb090800000000000000
+      internalID: -8017763482349107099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_182
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 459
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b804f7681754d3eb0800000000000000
+      internalID: -4738554879033786229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_183
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 400
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6dc80e3cc66ea10800000000000000
+      internalID: 1938356278171326159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_184
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 400
+        width: 88
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7055973b0b6cef90800000000000000
+      internalID: -6923040831253950341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_185
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 401
+        width: 86
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c193e1136970d80800000000000000
+      internalID: -8284487851820114901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_186
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 400
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a57b5800addd0fa0800000000000000
+      internalID: -5832762262970206815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_187
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 330
+        width: 86
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fb565c4be805590800000000000000
+      internalID: -7687487656864399470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_188
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 332
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348ad952df0107d0800000000000000
+      internalID: -2954062484453293002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_189
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 332
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c246881e001c30800000000000000
+      internalID: 4327974740397572659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_190
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 332
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892dc6c865954a30800000000000000
+      internalID: 4198926504837327246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_191
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 330
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b62ab90f918100800000000000000
+      internalID: 108542730160224507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_192
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 330
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324136951a2aae70800000000000000
+      internalID: 9127153867022221883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_193
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 329
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92807afb73bd36f0800000000000000
+      internalID: -703208621735902562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_194
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 243
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1108778e5197c30800000000000000
+      internalID: 4357538202639143333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_195
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 243
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b208b89c2d1ad7180800000000000000
+      internalID: -9115952144031449045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_196
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 243
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e0e07ba6f9ce00800000000000000
+      internalID: 1065654003043460810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_197
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 243
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e4bcd7a9d54030800000000000000
+      internalID: 3478425602199183940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_198
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232dcdec6dbffdf50800000000000000
+      internalID: 6908517253421781554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_199
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b2940ae09db5ce0800000000000000
+      internalID: -1415299001035969710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_200
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 142
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08cc4589d1f2780800000000000000
+      internalID: -8705707014588956495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_201
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 141
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4912ae2949a4ec080800000000000000
+      internalID: -9165306189671947884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_202
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 141
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0b43dcaf285520800000000000000
+      internalID: 2690953196679663426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_203
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 141
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e32d12950aa340800000000000000
+      internalID: 4875715671694237755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_204
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 141
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ce172204e19d90800000000000000
+      internalID: -7092637240234425604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_205
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 141
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e458d80937244caf0800000000000000
+      internalID: -377103404678412978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_206
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 141
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2fb658cf72a3a0800000000000000
+      internalID: -6655616800874616118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_207
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 141
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847be01de52a27860800000000000000
+      internalID: 7526256455407548232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_208
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 140
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873852d3c050466f0800000000000000
+      internalID: -692422892584598664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_209
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 140
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b65667434bbeb0800000000000000
+      internalID: -4703091411919653714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_210
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 140
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d3bf436876e4570800000000000000
+      internalID: 8452807376733158799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_211
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 140
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d9f058489323e0800000000000000
+      internalID: -2079651166551419233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_212
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 140
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ae3b3a36c85120800000000000000
+      internalID: 2402888354606522946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_213
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 140
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d0f9c368713be0800000000000000
+      internalID: -1499284830952565833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_214
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 140
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c42591f2260980800000000000000
+      internalID: -8573126419668481635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_215
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 140
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9a120ddef0d7f0800000000000000
+      internalID: -589691326009008178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_216
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 140
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f528ce939297f0800000000000000
+      internalID: -607260689569548075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_217
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d08fdb817e178970800000000000000
+      internalID: 8757001473472037073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_218
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed0f0e346d2d2590800000000000000
+      internalID: -7697446279545156125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_219
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5455066369ebdd0800000000000000
+      internalID: -2468370385463851549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_220
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 116
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a381f739cf6180800000000000000
+      internalID: -9119849478289644562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_221
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 9
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86526bac34c1c2280800000000000000
+      internalID: -9066840872314329752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_222
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 9
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70af5f445786d8410800000000000000
+      internalID: 1480954705352194567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_223
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5471f8fd179b51cc0800000000000000
+      internalID: -3740880016728189115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_224
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 100
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de708f87672847e20800000000000000
+      internalID: 3347443868390393837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_225
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c7a2fea104a230800000000000000
+      internalID: 3649043448983962078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_226
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 103
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39131ea6cbcdcadf0800000000000000
+      internalID: -167516384314445421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_227
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 121
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad03014c8e8eb180800000000000000
+      internalID: -9097677464204538460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_228
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 78
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c34d3de4a24fae0800000000000000
+      internalID: -1516540656467297163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_229
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 86
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bfa28adcfe213c0800000000000000
+      internalID: -4390183020164088961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_230
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d95e1fef052720800000000000000
+      internalID: 2820678261298287516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_231
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 9
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cabe170fb5e38a0800000000000000
+      internalID: -6323515738520048491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_232
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 88
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1686c5d8b24aff0800000000000000
+      internalID: -25847811716652611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_233
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b759465f97d740800000000000000
+      internalID: 5176781489632163900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_234
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 86
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ebe6be9634ccf30800000000000000
+      internalID: 4597123441838964260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_235
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc5cc8302a70d10800000000000000
+      internalID: 2091818688067259301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_236
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa5dbfbcd605fc0800000000000000
+      internalID: -3508183386850743702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_237
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0565624ff00f3090800000000000000
+      internalID: -8052716512384555765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_238
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 63
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf939332b28027660800000000000000
+      internalID: 7381971720581233147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_239
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 71
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6527267866a86ce0800000000000000
+      internalID: -1411695515591563923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_240
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ebf7011183ab2d0800000000000000
+      internalID: -3262233334134096254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_241
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859fc3e1e28a66ee0800000000000000
+      internalID: -1268141329028941480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_242
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 63
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db707231cba280710800000000000000
+      internalID: 1659623449949571005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_243
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 48
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb406f8170ea6870800000000000000
+      internalID: 8676994410424060849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_244
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 30
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2005efcef15160800000000000000
+      internalID: 7012666263646251643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_245
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fbda19cdcd4e2b0800000000000000
+      internalID: -5556073200373350570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_246
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c29e58bf0016c0800000000000000
+      internalID: -4174819570037374969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_247
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 18
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b29689d71be0530800000000000000
+      internalID: 3823188286670187353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_248
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21236d88cb40310800000000000000
+      internalID: 1370427482522653371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_249
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 27
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1409161de605a5270800000000000000
+      internalID: 8239986905117200449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_250
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb369d856108d30800000000000000
+      internalID: 4431566604192694115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_251
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5732f0b7725520800000000000000
+      internalID: 2689343529355272141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucas Li_252
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324a0440508588b0800000000000000
+      internalID: -5150569516601032138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

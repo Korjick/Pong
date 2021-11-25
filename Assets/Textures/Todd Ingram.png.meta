@@ -1,0 +1,8004 @@
+fileFormatVersion: 2
+guid: cfb5ffecc3f2a8c4ea92d564326d5363
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3434102101231341745
+    second: Todd Ingram_0
+  - first:
+      213: 7172764658514550079
+    second: Todd Ingram_1
+  - first:
+      213: 8814587727914543701
+    second: Todd Ingram_2
+  - first:
+      213: -363097138973007227
+    second: Todd Ingram_3
+  - first:
+      213: -8004634656920362689
+    second: Todd Ingram_4
+  - first:
+      213: -2404979342246539969
+    second: Todd Ingram_5
+  - first:
+      213: 8395117339788725439
+    second: Todd Ingram_6
+  - first:
+      213: 1423475302579170686
+    second: Todd Ingram_7
+  - first:
+      213: 6951588238964105573
+    second: Todd Ingram_8
+  - first:
+      213: -7581551289605705994
+    second: Todd Ingram_9
+  - first:
+      213: -9137960648641619243
+    second: Todd Ingram_10
+  - first:
+      213: 7330315385682327972
+    second: Todd Ingram_11
+  - first:
+      213: 7288021131985224403
+    second: Todd Ingram_12
+  - first:
+      213: 3167566269151581437
+    second: Todd Ingram_13
+  - first:
+      213: -8403539575741602730
+    second: Todd Ingram_14
+  - first:
+      213: 6025389935625464149
+    second: Todd Ingram_15
+  - first:
+      213: 3499047896015834683
+    second: Todd Ingram_16
+  - first:
+      213: 3045996886418819524
+    second: Todd Ingram_17
+  - first:
+      213: -1184948050887754414
+    second: Todd Ingram_18
+  - first:
+      213: -4638727568432417290
+    second: Todd Ingram_19
+  - first:
+      213: 3753513711198206499
+    second: Todd Ingram_20
+  - first:
+      213: 3100714392850622568
+    second: Todd Ingram_21
+  - first:
+      213: 7745601743227937241
+    second: Todd Ingram_22
+  - first:
+      213: -2368624897833398136
+    second: Todd Ingram_23
+  - first:
+      213: 6705805982519439009
+    second: Todd Ingram_24
+  - first:
+      213: 1576067579816195423
+    second: Todd Ingram_25
+  - first:
+      213: 5222583324767830691
+    second: Todd Ingram_26
+  - first:
+      213: -411030664528511480
+    second: Todd Ingram_27
+  - first:
+      213: -2064703527332876632
+    second: Todd Ingram_28
+  - first:
+      213: 520868729634107517
+    second: Todd Ingram_29
+  - first:
+      213: -7745859725227344629
+    second: Todd Ingram_30
+  - first:
+      213: 8747029464977526824
+    second: Todd Ingram_31
+  - first:
+      213: 3780757004769053552
+    second: Todd Ingram_32
+  - first:
+      213: 1146247099995540935
+    second: Todd Ingram_33
+  - first:
+      213: -6448826782007116812
+    second: Todd Ingram_34
+  - first:
+      213: 3821336695548575321
+    second: Todd Ingram_35
+  - first:
+      213: -6018793325931215639
+    second: Todd Ingram_36
+  - first:
+      213: 4835510105959987906
+    second: Todd Ingram_37
+  - first:
+      213: 1829034947955805061
+    second: Todd Ingram_38
+  - first:
+      213: 6441563541701040200
+    second: Todd Ingram_39
+  - first:
+      213: -8207587818425632788
+    second: Todd Ingram_40
+  - first:
+      213: 7469810174604676373
+    second: Todd Ingram_41
+  - first:
+      213: -5601542593448980512
+    second: Todd Ingram_42
+  - first:
+      213: 1199016476254967189
+    second: Todd Ingram_43
+  - first:
+      213: 8592615047705373814
+    second: Todd Ingram_44
+  - first:
+      213: -6261935333891544287
+    second: Todd Ingram_45
+  - first:
+      213: 1420414296025342033
+    second: Todd Ingram_46
+  - first:
+      213: -1316029820349467681
+    second: Todd Ingram_47
+  - first:
+      213: -1960135260576380537
+    second: Todd Ingram_48
+  - first:
+      213: 5769849699786819239
+    second: Todd Ingram_49
+  - first:
+      213: 3536842344038686655
+    second: Todd Ingram_50
+  - first:
+      213: 2835923819091505565
+    second: Todd Ingram_51
+  - first:
+      213: 8911196784088962178
+    second: Todd Ingram_52
+  - first:
+      213: 8773906651563033624
+    second: Todd Ingram_53
+  - first:
+      213: -2657322922961756767
+    second: Todd Ingram_54
+  - first:
+      213: 8265409517183837515
+    second: Todd Ingram_55
+  - first:
+      213: -3051821171171498144
+    second: Todd Ingram_56
+  - first:
+      213: -6504986965532160711
+    second: Todd Ingram_57
+  - first:
+      213: 4583660777895324848
+    second: Todd Ingram_58
+  - first:
+      213: -8679563095119883152
+    second: Todd Ingram_59
+  - first:
+      213: -7376579693153423456
+    second: Todd Ingram_60
+  - first:
+      213: -6460244102812638440
+    second: Todd Ingram_61
+  - first:
+      213: -4211506580636587051
+    second: Todd Ingram_62
+  - first:
+      213: 8638565652476526667
+    second: Todd Ingram_63
+  - first:
+      213: 217523901563761715
+    second: Todd Ingram_64
+  - first:
+      213: -2451081307709501302
+    second: Todd Ingram_65
+  - first:
+      213: -1739788875972874445
+    second: Todd Ingram_66
+  - first:
+      213: 328738331646429605
+    second: Todd Ingram_67
+  - first:
+      213: 8371608124623087617
+    second: Todd Ingram_68
+  - first:
+      213: -3173868328920920165
+    second: Todd Ingram_69
+  - first:
+      213: 5795186808441320238
+    second: Todd Ingram_70
+  - first:
+      213: 7151761121269845711
+    second: Todd Ingram_71
+  - first:
+      213: -7960505257789842815
+    second: Todd Ingram_72
+  - first:
+      213: -3440039858440057856
+    second: Todd Ingram_73
+  - first:
+      213: 6771046248501130043
+    second: Todd Ingram_74
+  - first:
+      213: -863182879147706297
+    second: Todd Ingram_75
+  - first:
+      213: 9032059679767804368
+    second: Todd Ingram_76
+  - first:
+      213: -7918786721400056526
+    second: Todd Ingram_77
+  - first:
+      213: 4545944852461794013
+    second: Todd Ingram_78
+  - first:
+      213: -4363662415411345068
+    second: Todd Ingram_79
+  - first:
+      213: -4677568314954475663
+    second: Todd Ingram_80
+  - first:
+      213: -6484951114205384930
+    second: Todd Ingram_81
+  - first:
+      213: -5305388962692715979
+    second: Todd Ingram_82
+  - first:
+      213: 2333441310656455270
+    second: Todd Ingram_83
+  - first:
+      213: -7056653112733951707
+    second: Todd Ingram_84
+  - first:
+      213: -1517513937674134710
+    second: Todd Ingram_85
+  - first:
+      213: -4359805735990733214
+    second: Todd Ingram_86
+  - first:
+      213: -1720228464688706229
+    second: Todd Ingram_87
+  - first:
+      213: -8894199792634532411
+    second: Todd Ingram_88
+  - first:
+      213: 803262306828874083
+    second: Todd Ingram_89
+  - first:
+      213: -2356386219545242542
+    second: Todd Ingram_90
+  - first:
+      213: 7298251765046444401
+    second: Todd Ingram_91
+  - first:
+      213: -5108541532970301409
+    second: Todd Ingram_92
+  - first:
+      213: -7793961373696719938
+    second: Todd Ingram_93
+  - first:
+      213: 5744199289043785925
+    second: Todd Ingram_94
+  - first:
+      213: -6705283969380527439
+    second: Todd Ingram_95
+  - first:
+      213: 7500093422443889935
+    second: Todd Ingram_96
+  - first:
+      213: 4654547897891806274
+    second: Todd Ingram_97
+  - first:
+      213: -7288617352565600968
+    second: Todd Ingram_98
+  - first:
+      213: -5026608485290948292
+    second: Todd Ingram_99
+  - first:
+      213: 5338281465566412394
+    second: Todd Ingram_100
+  - first:
+      213: -596705589420176150
+    second: Todd Ingram_101
+  - first:
+      213: -6383651462572312233
+    second: Todd Ingram_102
+  - first:
+      213: 8396143814451632150
+    second: Todd Ingram_103
+  - first:
+      213: -772162204733991487
+    second: Todd Ingram_104
+  - first:
+      213: 2365745640509757212
+    second: Todd Ingram_105
+  - first:
+      213: 4824648725504238968
+    second: Todd Ingram_106
+  - first:
+      213: 4157855396673008203
+    second: Todd Ingram_107
+  - first:
+      213: 8526578921240959280
+    second: Todd Ingram_108
+  - first:
+      213: 4317006098668007773
+    second: Todd Ingram_109
+  - first:
+      213: 7179203707554489447
+    second: Todd Ingram_110
+  - first:
+      213: 974405859538521956
+    second: Todd Ingram_111
+  - first:
+      213: 1072597032167440531
+    second: Todd Ingram_112
+  - first:
+      213: -4023972117682941357
+    second: Todd Ingram_113
+  - first:
+      213: -2054307862294052782
+    second: Todd Ingram_114
+  - first:
+      213: -1074772787561863889
+    second: Todd Ingram_115
+  - first:
+      213: -6729120676776657690
+    second: Todd Ingram_116
+  - first:
+      213: -8095013319082629592
+    second: Todd Ingram_117
+  - first:
+      213: -3529865924361120206
+    second: Todd Ingram_118
+  - first:
+      213: 3946144563692686120
+    second: Todd Ingram_119
+  - first:
+      213: -5566776022819310524
+    second: Todd Ingram_120
+  - first:
+      213: 5991721588580959589
+    second: Todd Ingram_121
+  - first:
+      213: -332424597822245967
+    second: Todd Ingram_122
+  - first:
+      213: 8642736356360423871
+    second: Todd Ingram_123
+  - first:
+      213: -5304791315943078001
+    second: Todd Ingram_124
+  - first:
+      213: 5697995401399299074
+    second: Todd Ingram_125
+  - first:
+      213: -3739047184261275213
+    second: Todd Ingram_126
+  - first:
+      213: -3065483065410125405
+    second: Todd Ingram_127
+  - first:
+      213: -1205778603670191695
+    second: Todd Ingram_128
+  - first:
+      213: 5271229888019559192
+    second: Todd Ingram_129
+  - first:
+      213: 4553467545740034075
+    second: Todd Ingram_130
+  - first:
+      213: 6850492900008131814
+    second: Todd Ingram_131
+  - first:
+      213: 6586714386135363315
+    second: Todd Ingram_132
+  - first:
+      213: -4956081585785634418
+    second: Todd Ingram_133
+  - first:
+      213: -5275594058703841361
+    second: Todd Ingram_134
+  - first:
+      213: -1629601619609782054
+    second: Todd Ingram_135
+  - first:
+      213: 4912482670922756970
+    second: Todd Ingram_136
+  - first:
+      213: 1194638707285179245
+    second: Todd Ingram_137
+  - first:
+      213: -6617516450374493036
+    second: Todd Ingram_138
+  - first:
+      213: 6656325385532202471
+    second: Todd Ingram_139
+  - first:
+      213: -3817019783345801829
+    second: Todd Ingram_140
+  - first:
+      213: 2415362224909252155
+    second: Todd Ingram_141
+  - first:
+      213: -5278956272580482324
+    second: Todd Ingram_142
+  - first:
+      213: 2062468365929964547
+    second: Todd Ingram_143
+  - first:
+      213: -4828879670281963063
+    second: Todd Ingram_144
+  - first:
+      213: 5821326412183410178
+    second: Todd Ingram_145
+  - first:
+      213: 4213554995359522802
+    second: Todd Ingram_146
+  - first:
+      213: -4715052644303658763
+    second: Todd Ingram_147
+  - first:
+      213: -7976368421341454088
+    second: Todd Ingram_148
+  - first:
+      213: 4176683977629966435
+    second: Todd Ingram_149
+  - first:
+      213: -6081462468829593243
+    second: Todd Ingram_150
+  - first:
+      213: 6676644848293525489
+    second: Todd Ingram_151
+  - first:
+      213: 3745085893590095502
+    second: Todd Ingram_152
+  - first:
+      213: 3960581065066583371
+    second: Todd Ingram_153
+  - first:
+      213: -7943003535309862303
+    second: Todd Ingram_154
+  - first:
+      213: -3540642849786891391
+    second: Todd Ingram_155
+  - first:
+      213: -8163171863415645893
+    second: Todd Ingram_156
+  - first:
+      213: -8177107921678489140
+    second: Todd Ingram_157
+  - first:
+      213: -1255448024533330845
+    second: Todd Ingram_158
+  - first:
+      213: -4156004859689417328
+    second: Todd Ingram_159
+  - first:
+      213: 5813915054136928958
+    second: Todd Ingram_160
+  - first:
+      213: -6293757007895502757
+    second: Todd Ingram_161
+  - first:
+      213: -8653941655929094020
+    second: Todd Ingram_162
+  - first:
+      213: -4107512879919306255
+    second: Todd Ingram_163
+  - first:
+      213: 7205956456927804277
+    second: Todd Ingram_164
+  - first:
+      213: 6947889104926201158
+    second: Todd Ingram_165
+  - first:
+      213: 7181885651223872218
+    second: Todd Ingram_166
+  - first:
+      213: 6477722182920842920
+    second: Todd Ingram_167
+  - first:
+      213: 7459432086536905849
+    second: Todd Ingram_168
+  - first:
+      213: -3357601409489067624
+    second: Todd Ingram_169
+  - first:
+      213: 1967108795541446959
+    second: Todd Ingram_170
+  - first:
+      213: 81674559840940853
+    second: Todd Ingram_171
+  - first:
+      213: 214861382328248499
+    second: Todd Ingram_172
+  - first:
+      213: -8326252790972230650
+    second: Todd Ingram_173
+  - first:
+      213: -2115250839152832975
+    second: Todd Ingram_174
+  - first:
+      213: -3591941619019335632
+    second: Todd Ingram_175
+  - first:
+      213: -2523818814565534669
+    second: Todd Ingram_176
+  - first:
+      213: 5869277365778620002
+    second: Todd Ingram_177
+  - first:
+      213: -550996764022085372
+    second: Todd Ingram_178
+  - first:
+      213: -5409605685710636766
+    second: Todd Ingram_179
+  - first:
+      213: -397258031979095001
+    second: Todd Ingram_180
+  - first:
+      213: -5620294330081298584
+    second: Todd Ingram_181
+  - first:
+      213: 745218243020320127
+    second: Todd Ingram_182
+  - first:
+      213: -2024730787735023312
+    second: Todd Ingram_183
+  - first:
+      213: 7117885040133544553
+    second: Todd Ingram_184
+  - first:
+      213: 3477927575079213534
+    second: Todd Ingram_185
+  - first:
+      213: -8926627958155582202
+    second: Todd Ingram_186
+  - first:
+      213: -6905943060360745555
+    second: Todd Ingram_187
+  - first:
+      213: -3947649752835469954
+    second: Todd Ingram_188
+  - first:
+      213: 1487182154654573680
+    second: Todd Ingram_189
+  - first:
+      213: 8835677235104920412
+    second: Todd Ingram_190
+  - first:
+      213: -3669635636740987557
+    second: Todd Ingram_191
+  - first:
+      213: -2959568005241709418
+    second: Todd Ingram_192
+  - first:
+      213: -6053938430703112949
+    second: Todd Ingram_193
+  - first:
+      213: 1521329922747438363
+    second: Todd Ingram_194
+  - first:
+      213: -7235210990942363432
+    second: Todd Ingram_195
+  - first:
+      213: 1462021911991825783
+    second: Todd Ingram_196
+  - first:
+      213: 1160848822634984470
+    second: Todd Ingram_197
+  - first:
+      213: 449626803739150211
+    second: Todd Ingram_198
+  - first:
+      213: -2934945251778475512
+    second: Todd Ingram_199
+  - first:
+      213: -8322234353595580364
+    second: Todd Ingram_200
+  - first:
+      213: -8092307483872687448
+    second: Todd Ingram_201
+  - first:
+      213: -1152561198420034005
+    second: Todd Ingram_202
+  - first:
+      213: -2104450571403932699
+    second: Todd Ingram_203
+  - first:
+      213: -5098017937675412789
+    second: Todd Ingram_204
+  - first:
+      213: 5590697620883828856
+    second: Todd Ingram_205
+  - first:
+      213: 1896014805146960735
+    second: Todd Ingram_206
+  - first:
+      213: -8331755050389536052
+    second: Todd Ingram_207
+  - first:
+      213: -8320469381300102265
+    second: Todd Ingram_208
+  - first:
+      213: 2937713432398540209
+    second: Todd Ingram_209
+  - first:
+      213: 5203807029633538229
+    second: Todd Ingram_210
+  - first:
+      213: -1146846797576468293
+    second: Todd Ingram_211
+  - first:
+      213: -8943550809453232733
+    second: Todd Ingram_212
+  - first:
+      213: -2013563777356489174
+    second: Todd Ingram_213
+  - first:
+      213: 3665538351928483462
+    second: Todd Ingram_214
+  - first:
+      213: 5834045930408460210
+    second: Todd Ingram_215
+  - first:
+      213: 4696185034478247988
+    second: Todd Ingram_216
+  - first:
+      213: -5073502416888443183
+    second: Todd Ingram_217
+  - first:
+      213: -4100486938778717630
+    second: Todd Ingram_218
+  - first:
+      213: 5914787294374585324
+    second: Todd Ingram_219
+  - first:
+      213: -4051325637786866395
+    second: Todd Ingram_220
+  - first:
+      213: -7327650627551244224
+    second: Todd Ingram_221
+  - first:
+      213: 2322941224443265402
+    second: Todd Ingram_222
+  - first:
+      213: -3019749421477464203
+    second: Todd Ingram_223
+  - first:
+      213: -8961544933865096144
+    second: Todd Ingram_224
+  - first:
+      213: -28170273050219803
+    second: Todd Ingram_225
+  - first:
+      213: 4335429946858998702
+    second: Todd Ingram_226
+  - first:
+      213: 2396786917906986427
+    second: Todd Ingram_227
+  - first:
+      213: -8398241707617151242
+    second: Todd Ingram_228
+  - first:
+      213: -5937648173254856458
+    second: Todd Ingram_229
+  - first:
+      213: 8089204838955675435
+    second: Todd Ingram_230
+  - first:
+      213: 5424995488736153008
+    second: Todd Ingram_231
+  - first:
+      213: 5895844391454645067
+    second: Todd Ingram_232
+  - first:
+      213: 8907620551472947309
+    second: Todd Ingram_233
+  - first:
+      213: -3182063334961620102
+    second: Todd Ingram_234
+  - first:
+      213: 1251849645117685253
+    second: Todd Ingram_235
+  - first:
+      213: 6300672140834288743
+    second: Todd Ingram_236
+  - first:
+      213: 5834734871228071753
+    second: Todd Ingram_237
+  - first:
+      213: 8605881270377450796
+    second: Todd Ingram_238
+  - first:
+      213: 8732259868790208079
+    second: Todd Ingram_239
+  - first:
+      213: -8739791869107746268
+    second: Todd Ingram_240
+  - first:
+      213: 4630436834593724087
+    second: Todd Ingram_241
+  - first:
+      213: 289967414233918920
+    second: Todd Ingram_242
+  - first:
+      213: 6288705298361179862
+    second: Todd Ingram_243
+  - first:
+      213: -6121612695065651284
+    second: Todd Ingram_244
+  - first:
+      213: -3661824288690923931
+    second: Todd Ingram_245
+  - first:
+      213: 4786379709951960494
+    second: Todd Ingram_246
+  - first:
+      213: 3397655785230070452
+    second: Todd Ingram_247
+  - first:
+      213: -1999217497633273357
+    second: Todd Ingram_248
+  - first:
+      213: -1104189722897371703
+    second: Todd Ingram_249
+  - first:
+      213: 1486787080550383363
+    second: Todd Ingram_250
+  - first:
+      213: -4809396567757247561
+    second: Todd Ingram_251
+  - first:
+      213: -8029728184776641073
+    second: Todd Ingram_252
+  - first:
+      213: 872261180141692295
+    second: Todd Ingram_253
+  - first:
+      213: -8290199117269640165
+    second: Todd Ingram_254
+  - first:
+      213: 8063455355939530266
+    second: Todd Ingram_255
+  - first:
+      213: 7265003146167963245
+    second: Todd Ingram_256
+  - first:
+      213: 4935944049019990185
+    second: Todd Ingram_257
+  - first:
+      213: 5758694706086477870
+    second: Todd Ingram_258
+  - first:
+      213: -8239553917591359571
+    second: Todd Ingram_259
+  - first:
+      213: 8343012068610480545
+    second: Todd Ingram_260
+  - first:
+      213: 8640545619894290052
+    second: Todd Ingram_261
+  - first:
+      213: 3330416330995848646
+    second: Todd Ingram_262
+  - first:
+      213: -7358690892598411190
+    second: Todd Ingram_263
+  - first:
+      213: 2819911629847135502
+    second: Todd Ingram_264
+  - first:
+      213: -2491772273068191515
+    second: Todd Ingram_265
+  - first:
+      213: 9188171846559206348
+    second: Todd Ingram_266
+  - first:
+      213: -5959321414633444114
+    second: Todd Ingram_267
+  - first:
+      213: -3718115589445247037
+    second: Todd Ingram_268
+  - first:
+      213: 1461229379589045769
+    second: Todd Ingram_269
+  - first:
+      213: 4883463595378336644
+    second: Todd Ingram_270
+  - first:
+      213: 8531353503729733535
+    second: Todd Ingram_271
+  - first:
+      213: 2814250869343251290
+    second: Todd Ingram_272
+  - first:
+      213: -5792575828785989837
+    second: Todd Ingram_273
+  - first:
+      213: -3742452949610481424
+    second: Todd Ingram_274
+  - first:
+      213: -7495914560618287114
+    second: Todd Ingram_275
+  - first:
+      213: -8371255286671041652
+    second: Todd Ingram_276
+  - first:
+      213: -5036348083437111503
+    second: Todd Ingram_277
+  - first:
+      213: -7965415706886020010
+    second: Todd Ingram_278
+  - first:
+      213: -4168922357969435065
+    second: Todd Ingram_279
+  - first:
+      213: -377646418573980995
+    second: Todd Ingram_280
+  - first:
+      213: -6956785184659763052
+    second: Todd Ingram_281
+  - first:
+      213: -270867226646023013
+    second: Todd Ingram_282
+  - first:
+      213: -811541013061963278
+    second: Todd Ingram_283
+  - first:
+      213: 3409785761776593737
+    second: Todd Ingram_284
+  - first:
+      213: -4053514330442923800
+    second: Todd Ingram_285
+  - first:
+      213: 9151902124739167552
+    second: Todd Ingram_286
+  - first:
+      213: -3699321374035844994
+    second: Todd Ingram_287
+  - first:
+      213: -2213191975335999301
+    second: Todd Ingram_288
+  - first:
+      213: -3772321601112758415
+    second: Todd Ingram_289
+  - first:
+      213: -1950340442180197920
+    second: Todd Ingram_290
+  - first:
+      213: 2752058237661089983
+    second: Todd Ingram_291
+  - first:
+      213: 5762100049288568161
+    second: Todd Ingram_292
+  - first:
+      213: 2860389020692893990
+    second: Todd Ingram_293
+  - first:
+      213: -5142884210169544927
+    second: Todd Ingram_294
+  - first:
+      213: 6597889782340912863
+    second: Todd Ingram_295
+  - first:
+      213: 1431084066819364760
+    second: Todd Ingram_296
+  - first:
+      213: -1981228874484955935
+    second: Todd Ingram_297
+  - first:
+      213: -2710530613337604968
+    second: Todd Ingram_298
+  - first:
+      213: -5542097560915300074
+    second: Todd Ingram_299
+  - first:
+      213: 7515832354804627829
+    second: Todd Ingram_300
+  - first:
+      213: 8450048392029753101
+    second: Todd Ingram_301
+  - first:
+      213: 2125395381460093217
+    second: Todd Ingram_302
+  - first:
+      213: 745015300516820488
+    second: Todd Ingram_303
+  - first:
+      213: 2087306321536841205
+    second: Todd Ingram_304
+  - first:
+      213: 1058983131154286629
+    second: Todd Ingram_305
+  - first:
+      213: -884208538118250230
+    second: Todd Ingram_306
+  - first:
+      213: 3586445671596716013
+    second: Todd Ingram_307
+  - first:
+      213: -6173244916912165453
+    second: Todd Ingram_308
+  - first:
+      213: 7348623154534931828
+    second: Todd Ingram_309
+  - first:
+      213: -2879065602796866059
+    second: Todd Ingram_310
+  - first:
+      213: 3482030517051576781
+    second: Todd Ingram_311
+  - first:
+      213: -1218512404910029313
+    second: Todd Ingram_312
+  - first:
+      213: 4877481932733645769
+    second: Todd Ingram_313
+  - first:
+      213: -6358292266804853110
+    second: Todd Ingram_314
+  - first:
+      213: 729686297593361611
+    second: Todd Ingram_315
+  - first:
+      213: -2609287992178030733
+    second: Todd Ingram_316
+  - first:
+      213: -3117317118976119271
+    second: Todd Ingram_317
+  - first:
+      213: -7267656413153529535
+    second: Todd Ingram_318
+  - first:
+      213: -7410936920673250379
+    second: Todd Ingram_319
+  - first:
+      213: 5981059179573301373
+    second: Todd Ingram_320
+  - first:
+      213: 7355306981198749570
+    second: Todd Ingram_321
+  - first:
+      213: 8090660643256433965
+    second: Todd Ingram_322
+  - first:
+      213: -8662580691884160976
+    second: Todd Ingram_323
+  - first:
+      213: 8772290675784270617
+    second: Todd Ingram_324
+  - first:
+      213: -623291154085219003
+    second: Todd Ingram_325
+  - first:
+      213: 7820817566302795417
+    second: Todd Ingram_326
+  - first:
+      213: 188241988261577133
+    second: Todd Ingram_327
+  - first:
+      213: 534083488672552218
+    second: Todd Ingram_328
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Todd Ingram_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4539
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4feea5655e9750d0800000000000000
+      internalID: -3434102101231341745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4539
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d5c383477ca8360800000000000000
+      internalID: 7172764658514550079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4539
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2ddb36d4b35a70800000000000000
+      internalID: 8814587727914543701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4539
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ad8c631506faf0800000000000000
+      internalID: -363097138973007227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4539
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f312b7d9033d9e090800000000000000
+      internalID: -8004634656920362689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4539
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d0e35c70ccf9ed0800000000000000
+      internalID: -2404979342246539969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4539
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc44d5cdb2718470800000000000000
+      internalID: 8395117339788725439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4539
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de5ccee3331c310800000000000000
+      internalID: 1423475302579170686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 4539
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612d381ca0097060800000000000000
+      internalID: 6951588238964105573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4427
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fea5a8554be8c690800000000000000
+      internalID: -7581551289605705994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4429
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad73e74317f2180800000000000000
+      internalID: -9137960648641619243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4528
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9fc2f61038ab560800000000000000
+      internalID: 7330315385682327972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4428
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2058f1b90442560800000000000000
+      internalID: 7288021131985224403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4427
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df41a434db475fb20800000000000000
+      internalID: 3167566269151581437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4427
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542cfb9741a06b80800000000000000
+      internalID: -8403539575741602730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4427
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5596b2af83c7e9350800000000000000
+      internalID: 6025389935625464149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 4428
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0a1ec58d1f8030800000000000000
+      internalID: 3499047896015834683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_17
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 4463
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c980f1a70e854a20800000000000000
+      internalID: 3045996886418819524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4285
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3b8d96083e8fe0800000000000000
+      internalID: -1184948050887754414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4285
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f536c18addef9fb0800000000000000
+      internalID: -4638727568432417290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4285
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af68755d8271430800000000000000
+      internalID: 3753513711198206499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4285
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686dcfdf43f70b20800000000000000
+      internalID: 3100714392850622568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4285
+        width: 72
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d16fbc5fb7ed7b60800000000000000
+      internalID: 7745601743227937241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4283
+        width: 75
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809e767434f02fd0800000000000000
+      internalID: -2368624897833398136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 4283
+        width: 75
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea2c0230fcf0d50800000000000000
+      internalID: 6705805982519439009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4283
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5534fc0d115fd510800000000000000
+      internalID: 1576067579816195423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_26
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4283
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24aaa0dd75a7840800000000000000
+      internalID: 5222583324767830691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4281
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e3cf0d9c9bb4af0800000000000000
+      internalID: -411030664528511480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_28
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4278
+        width: 163
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee3d6c413b853e0800000000000000
+      internalID: -2064703527332876632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4092
+        width: 180
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703374995f7a3700800000000000000
+      internalID: 520868729634107517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4089
+        width: 197
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db1d58e9d218490800000000000000
+      internalID: -7745859725227344629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 4103
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8205cd364f0b36970800000000000000
+      internalID: 8747029464977526824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4091
+        width: 272
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b445be672f77430800000000000000
+      internalID: 3780757004769053552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 4088
+        width: 299
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd4e041aa948ef00800000000000000
+      internalID: 1146247099995540935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3908
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb078853a2186a0800000000000000
+      internalID: -6448826782007116812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3888
+        width: 324
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e76517a7d180530800000000000000
+      internalID: 3821336695548575321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3884
+        width: 339
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4c067eb53f87ca0800000000000000
+      internalID: -6018793325931215639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3666
+        width: 334
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7e8d52de2b1340800000000000000
+      internalID: 4835510105959987906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3705
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b4ea23899026910800000000000000
+      internalID: 1829034947955805061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3666
+        width: 335
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848923d89e7056950800000000000000
+      internalID: 6441563541701040200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_40
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3690
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7bae36d5ac81e80800000000000000
+      internalID: -8207587818425632788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3448
+        width: 338
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d09ece6c81aa760800000000000000
+      internalID: 7469810174604676373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3449
+        width: 342
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efc04380b25342b0800000000000000
+      internalID: -5601542593448980512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3308
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595940be123c3a010800000000000000
+      internalID: 1199016476254967189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3307
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca72a3cd91f3770800000000000000
+      internalID: 8592615047705373814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3424
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b6de0bdf22919a0800000000000000
+      internalID: -6261935333891544287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3308
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502a7cc64356b310800000000000000
+      internalID: 1420414296025342033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3307
+        width: 78
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3bf3cd9d58cbde0800000000000000
+      internalID: -1316029820349467681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_48
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3307
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78980a1ad533cc4e0800000000000000
+      internalID: -1960135260576380537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_49
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3301
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a600336bbf921050800000000000000
+      internalID: 5769849699786819239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3306
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf5cf67f53651130800000000000000
+      internalID: 3536842344038686655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_51
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3307
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b40720b93b5720800000000000000
+      internalID: 2835923819091505565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_52
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 3306
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d937f24eeaab70800000000000000
+      internalID: 8911196784088962178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_53
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3303
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8140ada0d9d23c970800000000000000
+      internalID: 8773906651563033624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_54
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 3300
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9c5371ea4f1bd0800000000000000
+      internalID: -2657322922961756767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_55
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3306
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4520e2f922a4b270800000000000000
+      internalID: 8265409517183837515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_56
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3301
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0676e4660d0c5a5d0800000000000000
+      internalID: -3051821171171498144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_57
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3319
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dc8ead1d4a9b5a0800000000000000
+      internalID: -6504986965532160711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_58
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 3315
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6755313f6c9f30800000000000000
+      internalID: 4583660777895324848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_59
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3301
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741acde95ffb8780800000000000000
+      internalID: -8679563095119883152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_60
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 3320
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afea341adf11a990800000000000000
+      internalID: -7376579693153423456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_61
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3301
+        width: 75
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136a81673a9856a0800000000000000
+      internalID: -6460244102812638440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_62
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3301
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbafe31419bd85c0800000000000000
+      internalID: -4211506580636587051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_63
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3301
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4001cc11b952e770800000000000000
+      internalID: 8638565652476526667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3198
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3347dd206dcc40300800000000000000
+      internalID: 217523901563761715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3198
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80106a79820cfdd0800000000000000
+      internalID: -2451081307709501302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3198
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe57f2c370bd7e0800000000000000
+      internalID: -1739788875972874445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3198
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a907d955c9ef8400800000000000000
+      internalID: 328738331646429605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3198
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108eee21c3ded2470800000000000000
+      internalID: 8371608124623087617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_69
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3198
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f4eca129724f3d0800000000000000
+      internalID: -3173868328920920165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3198
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23bc24b2b3ac6050800000000000000
+      internalID: 5795186808441320238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_71
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 3198
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce0dbf19d8204360800000000000000
+      internalID: 7151761121269845711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_72
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3198
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9ec405aa968190800000000000000
+      internalID: -7960505257789842815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_73
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 3197
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cce7099f58240d0800000000000000
+      internalID: -3440039858440057856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_74
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3197
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33b6af30b697fd50800000000000000
+      internalID: 6771046248501130043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_75
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3197
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748b338aebb5504f0800000000000000
+      internalID: -863182879147706297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_76
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3042
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d930b2cc62585d70800000000000000
+      internalID: 9032059679767804368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3042
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359ed2be61da1290800000000000000
+      internalID: -7918786721400056526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_78
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3042
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2308302c0761f30800000000000000
+      internalID: 4545944852461794013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3042
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4590fa127282173c0800000000000000
+      internalID: -4363662415411345068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_80
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3042
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177148e7660f51fb0800000000000000
+      internalID: -4677568314954475663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_81
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3042
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa3040253d006a0800000000000000
+      internalID: -6484951114205384930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_82
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3042
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a2c6bf8d87f56b0800000000000000
+      internalID: -5305388962692715979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_83
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3042
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66266e9428c026020800000000000000
+      internalID: 2333441310656455270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_84
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3042
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299658b16bb11e90800000000000000
+      internalID: -7056653112733951707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_85
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 3042
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b9a332d15b0fae0800000000000000
+      internalID: -1517513937674134710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_86
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3042
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266df8848cbde73c0800000000000000
+      internalID: -4359805735990733214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_87
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 3042
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc6b553558028e0800000000000000
+      internalID: -1720228464688706229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2904
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6aae7964719480800000000000000
+      internalID: -8894199792634532411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2904
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361fefbefc2c52b00800000000000000
+      internalID: 803262306828874083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_90
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2904
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254516ec73f6c4fd0800000000000000
+      internalID: -2356386219545242542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_91
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2904
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17106f00059984560800000000000000
+      internalID: 7298251765046444401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_92
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2771
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18c9feba80da19b0800000000000000
+      internalID: -5108541532970301409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_93
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2771
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb301bfbc6946d390800000000000000
+      internalID: -7793961373696719938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2771
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8918eb1de77bf40800000000000000
+      internalID: 5744199289043785925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_95
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2771
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d3f681cb02f2a0800000000000000
+      internalID: -6705283969380527439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2771
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0503030b3fa51860800000000000000
+      internalID: 7500093422443889935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2771
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd1ebf6a6489040800000000000000
+      internalID: 4654547897891806274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_98
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2771
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d44947221a9da90800000000000000
+      internalID: -7288617352565600968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_99
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2771
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c449f636ed3ab0800000000000000
+      internalID: -5026608485290948292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_100
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2862
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3322a5b2651a40800000000000000
+      internalID: 5338281465566412394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2651
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecce1b8d6318b7f0800000000000000
+      internalID: -596705589420176150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2651
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759797b11d6b867a0800000000000000
+      internalID: -6383651462572312233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2651
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6189b778058158470800000000000000
+      internalID: 8396143814451632150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_104
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2651
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c519ddd09ab845f0800000000000000
+      internalID: -772162204733991487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_105
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2651
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1753833021d4d020800000000000000
+      internalID: 2365745640509757212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_106
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2651
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a8b9247894f240800000000000000
+      internalID: 4824648725504238968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_107
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2651
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42b22a347ba3b930800000000000000
+      internalID: 4157855396673008203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_108
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2651
+        width: 85
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03996e56a5e745670800000000000000
+      internalID: 8526578921240959280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_109
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2651
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513d4c9c2619eb30800000000000000
+      internalID: 4317006098668007773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_110
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2651
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e3f62cb7a1a360800000000000000
+      internalID: 7179203707554489447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_111
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2651
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f4ad477f8c58d00800000000000000
+      internalID: 974405859538521956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_112
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2651
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3908a716151a2ee00800000000000000
+      internalID: 1072597032167440531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_113
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2650
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3529e6bcdaaf728c0800000000000000
+      internalID: -4023972117682941357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_114
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2650
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250cba822e1ad73e0800000000000000
+      internalID: -2054307862294052782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_115
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2650
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f256e1718d3a511f0800000000000000
+      internalID: -1074772787561863889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_116
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2650
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecbdf9956c5d92a0800000000000000
+      internalID: -6729120676776657690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2535
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8262608864cb8af80800000000000000
+      internalID: -8095013319082629592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_118
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2535
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23613b1d4a5630fc0800000000000000
+      internalID: -3529865924361120206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_119
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2535
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bcd37b29583c630800000000000000
+      internalID: 3946144563692686120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2535
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44471b783b6deb2b0800000000000000
+      internalID: -5566776022819310524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_121
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2535
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56548601a0fd62350800000000000000
+      internalID: 5991721588580959589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_122
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2535
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f33ce69df26bf0800000000000000
+      internalID: -332424597822245967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_123
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2535
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb98738ccea21f770800000000000000
+      internalID: 8642736356360423871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_124
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2623
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c2a577689166b0800000000000000
+      internalID: -5304791315943078001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_125
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2535
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce638d0a8531f40800000000000000
+      internalID: 5697995401399299074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_126
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2535
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1aeaf656c3c1cc0800000000000000
+      internalID: -3739047184261275213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_127
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2535
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a10145c4673575d0800000000000000
+      internalID: -3065483065410125405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_128
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2485
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c87a9fb6344fe0800000000000000
+      internalID: -1205778603670191695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_129
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2495
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813f3dca7ab272940800000000000000
+      internalID: 5271229888019559192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_130
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2510
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ca188b9a213f30800000000000000
+      internalID: 4553467545740034075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_131
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2509
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf1514ff6d11f50800000000000000
+      internalID: 6850492900008131814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_132
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2397
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fead8616d5b86b50800000000000000
+      internalID: 6586714386135363315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_133
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2397
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8184616e06783bb0800000000000000
+      internalID: -4956081585785634418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_134
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2397
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7dbc7a72359c6b0800000000000000
+      internalID: -5275594058703841361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_135
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2397
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f1c106fd7269e0800000000000000
+      internalID: -1629601619609782054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_136
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2397
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63fc9536f4ac2440800000000000000
+      internalID: 4912482670922756970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_137
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2397
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3aa62395349010800000000000000
+      internalID: 1194638707285179245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_138
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2397
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cdf1879dbd924a0800000000000000
+      internalID: -6617516450374493036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_139
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2397
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eddf02eba4006c50800000000000000
+      internalID: 6656325385532202471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_140
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2397
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f8010bb8370bc0800000000000000
+      internalID: -3817019783345801829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_141
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2397
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36fc9b7527158120800000000000000
+      internalID: 2415362224909252155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_142
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2397
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea250c3d316db6b0800000000000000
+      internalID: -5278956272580482324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_143
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2397
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3046cb72d0c5f9c10800000000000000
+      internalID: 2062468365929964547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_144
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2397
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9fcbd368f5cfcb0800000000000000
+      internalID: -4828879670281963063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_145
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2488
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2069ac7778189c050800000000000000
+      internalID: 5821326412183410178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_146
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2397
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff1af3a1fd897a30800000000000000
+      internalID: 4213554995359522802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_147
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2397
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a307f994c09eb0800000000000000
+      internalID: -4715052644303658763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_148
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2397
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ac407e2f3e4190800000000000000
+      internalID: -7976368421341454088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2270
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36023b9d2ff86f930800000000000000
+      internalID: 4176683977629966435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2270
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561ca860b1e4a9ba0800000000000000
+      internalID: -6081462468829593243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_151
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2270
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73af97d1538ac50800000000000000
+      internalID: 6676644848293525489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_152
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2270
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8693c427c739f330800000000000000
+      internalID: 3745085893590095502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_153
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2351
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b459e6f9e7fc6f630800000000000000
+      internalID: 3960581065066583371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_154
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2373
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a0f245e58c4c190800000000000000
+      internalID: -7943003535309862303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_155
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183fce5561c1ddec0800000000000000
+      internalID: -3540642849786891391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_156
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2272
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3995a8c07696be80800000000000000
+      internalID: -8163171863415645893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_157
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2270
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9225e5ba3158e80800000000000000
+      internalID: -8177107921678489140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_158
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2359
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36499bf5ca0c39ee0800000000000000
+      internalID: -1255448024533330845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_159
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2363
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954a6d7997e256c0800000000000000
+      internalID: -4156004859689417328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_160
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2272
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa02430fc2fa050800000000000000
+      internalID: 5813915054136928958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_161
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2272
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5063c9d85518a8a0800000000000000
+      internalID: -6293757007895502757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_162
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2341
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70046b1ae507e780800000000000000
+      internalID: -8653941655929094020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_163
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2272
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9611a5cce2ff6c0800000000000000
+      internalID: -4107512879919306255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_164
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2272
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3d120833b00460800000000000000
+      internalID: 7205956456927804277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_165
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2132
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645dee5545cdb6060800000000000000
+      internalID: 6947889104926201158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_166
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2132
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28ca2d2fe2ba360800000000000000
+      internalID: 7181885651223872218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2132
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae2aa2410e75e950800000000000000
+      internalID: 6477722182920842920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_168
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2132
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ee2006f9358760800000000000000
+      internalID: 7459432086536905849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_169
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2132
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ad02be476761d0800000000000000
+      internalID: -3357601409489067624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_170
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2132
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f216bc007039c4b10800000000000000
+      internalID: 1967108795541446959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_171
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2132
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337186549a222100800000000000000
+      internalID: 81674559840940853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_172
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2132
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ef91f9475bf200800000000000000
+      internalID: 214861382328248499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_173
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2132
+        width: 127
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604def37335337c80800000000000000
+      internalID: -8326252790972230650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_174
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2132
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec271a19e15a2e0800000000000000
+      internalID: -2115250839152832975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_175
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2132
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383960e02cd62ec0800000000000000
+      internalID: -3591941619019335632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_176
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2015
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334bf50f82899fcd0800000000000000
+      internalID: -2523818814565534669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_177
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2015
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e997bdaacd37150800000000000000
+      internalID: 5869277365778620002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_178
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2015
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e218cc577a58f0800000000000000
+      internalID: -550996764022085372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_179
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2015
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229b8484a483de4b0800000000000000
+      internalID: -5409605685710636766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_180
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2015
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c17b7bce7ac7af0800000000000000
+      internalID: -397258031979095001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_181
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2015
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867bc5a9514b002b0800000000000000
+      internalID: -5620294330081298584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_182
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2015
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ded5f2b0c875a00800000000000000
+      internalID: 745218243020320127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_183
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1899
+        width: 91
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d1477316b6e3e0800000000000000
+      internalID: -2024730787735023312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_184
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1893
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1a395bbec7c260800000000000000
+      internalID: 7117885040133544553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_185
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1893
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9d123e3b4144030800000000000000
+      internalID: 3477927575079213534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_186
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1893
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605e018da2f3e1480800000000000000
+      internalID: -8926627958155582202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_187
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1893
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadaf1830692920a0800000000000000
+      internalID: -6905943060360745555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_188
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1899
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d459027712739c0800000000000000
+      internalID: -3947649752835469954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_189
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1899
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746c7c4a4883a410800000000000000
+      internalID: 1487182154654573680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_190
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1788
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c533f64c1a1ae9a70800000000000000
+      internalID: 8835677235104920412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_191
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1787
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5560f8b4d5d21dc0800000000000000
+      internalID: -3669635636740987557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_192
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1787
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cd4f664908de6d0800000000000000
+      internalID: -2959568005241709418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_193
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1788
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dead982171cfba0800000000000000
+      internalID: -6053938430703112949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_194
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1788
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15988f1189dc1510800000000000000
+      internalID: 1521329922747438363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_195
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1788
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0e0e100fd579b90800000000000000
+      internalID: -7235210990942363432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_196
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1788
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753c1ece252a4410800000000000000
+      internalID: 1462021911991825783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_197
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1788
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b61f8ad92c1010800000000000000
+      internalID: 1160848822634984470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_198
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1788
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387cd5e12356d3600800000000000000
+      internalID: 449626803739150211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_199
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1788
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4680f7daf447d0800000000000000
+      internalID: -2934945251778475512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_200
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1788
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4300260d2fb718c80800000000000000
+      internalID: -8322234353595580364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_201
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1788
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa8882e73952bf80800000000000000
+      internalID: -8092307483872687448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_202
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1788
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e764252b74100f0800000000000000
+      internalID: -1152561198420034005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_203
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1654
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc91cea5d7bc2e0800000000000000
+      internalID: -2104450571403932699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_204
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1654
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca994632b33049b0800000000000000
+      internalID: -5098017937675412789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1654
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870f66b8dd5269d40800000000000000
+      internalID: 5590697620883828856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_206
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1654
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f538aa57b6fff4a10800000000000000
+      internalID: 1896014805146960735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_207
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1654
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc207f9dce8af5c80800000000000000
+      internalID: -8331755050389536052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_208
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1654
+        width: 124
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bd7137e21c78c80800000000000000
+      internalID: -8320469381300102265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_209
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1654
+        width: 137
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd22065dcad4c820800000000000000
+      internalID: 2937713432398540209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_210
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1673
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8dcf82ce2a73840800000000000000
+      internalID: 5203807029633538229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_211
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1652
+        width: 387
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb809a2f9e49510f0800000000000000
+      internalID: -1146846797576468293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_212
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1664
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adf1eb7cef12e380800000000000000
+      internalID: -8943550809453232733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1513
+        width: 387
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e921ea9626e04e0800000000000000
+      internalID: -2013563777356489174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_214
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1533
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e9441d5bb9ed230800000000000000
+      internalID: 3665538351928483462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_215
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1513
+        width: 387
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3f451dd1b6f050800000000000000
+      internalID: 5834045930408460210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_216
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1509
+        width: 382
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e49b48633c2140800000000000000
+      internalID: 4696185034478247988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_217
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1524
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de4742be6c4799b0800000000000000
+      internalID: -5073502416888443183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_218
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1374
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24237ffbad42817c0800000000000000
+      internalID: -4100486938778717630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_219
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1351
+        width: 375
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e033d4bb851250800000000000000
+      internalID: 5914787294374585324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_220
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1351
+        width: 380
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52de74a1cccc6c7c0800000000000000
+      internalID: -4051325637786866395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_221
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1355
+        width: 384
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d3aae394fe4a90800000000000000
+      internalID: -7327650627551244224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_222
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1202
+        width: 363
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a714d057cbebc3020800000000000000
+      internalID: 2322941224443265402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_223
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1202
+        width: 330
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f42686e1b716d0800000000000000
+      internalID: -3019749421477464203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_224
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1202
+        width: 238
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf44aec5232a380800000000000000
+      internalID: -8961544933865096144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_225
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1202
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaad91394beb9ff0800000000000000
+      internalID: -28170273050219803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_226
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1202
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0f1b019a8a2c30800000000000000
+      internalID: 4335429946858998702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_227
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1165
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5362cc009134120800000000000000
+      internalID: 2396786917906986427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_228
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1169
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61c97a9a3737b80800000000000000
+      internalID: -8398241707617151242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_229
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b5e7027c399da0800000000000000
+      internalID: -5937648173254856458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_230
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1165
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe25d41f0a24070800000000000000
+      internalID: 8089204838955675435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_231
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1169
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd073677a4794b40800000000000000
+      internalID: 5424995488736153008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_232
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1165
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b12ab8c3f32d150800000000000000
+      internalID: 5895844391454645067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_233
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1075
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a38c62b93e9b70800000000000000
+      internalID: 8907620551472947309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_234
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1075
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b51d2914a07d3d0800000000000000
+      internalID: -3182063334961620102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_235
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1075
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e3071ae967f5110800000000000000
+      internalID: 1251849645117685253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_236
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b0a00eeb707750800000000000000
+      internalID: 6300672140834288743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_237
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1075
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f322e937429f050800000000000000
+      internalID: 5834734871228071753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_238
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1075
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d09046b6b3e6770800000000000000
+      internalID: 8605881270377450796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_239
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1146
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b3adc5183f2970800000000000000
+      internalID: 8732259868790208079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_240
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1075
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a4cf6b99506b680800000000000000
+      internalID: -8739791869107746268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_241
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1075
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d7d894cd924040800000000000000
+      internalID: 4630436834593724087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_242
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cde9d1b3db260400800000000000000
+      internalID: 289967414233918920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_243
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1075
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de5fed5628f54750800000000000000
+      internalID: 6288705298361179862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_244
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1075
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7171200b9ab0ba0800000000000000
+      internalID: -6121612695065651284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_245
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1146
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5661eaae5369e2dc0800000000000000
+      internalID: -3661824288690923931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_246
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1075
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e2d3acf2ac6240800000000000000
+      internalID: 4786379709951960494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_247
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1075
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b270b36fe5e62f20800000000000000
+      internalID: 3397655785230070452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_248
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1075
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c2d8374a5144e0800000000000000
+      internalID: -1999217497633273357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_249
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1075
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda01a1c412da0f0800000000000000
+      internalID: -1104189722897371703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_250
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1075
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f78d0f8f022a410800000000000000
+      internalID: 1486787080550383363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_251
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1140
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bba8da8d47914db0800000000000000
+      internalID: -4809396567757247561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_252
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1075
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5327f52cca09090800000000000000
+      internalID: -8029728184776641073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_253
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 960
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78565b10ce4ea1c00800000000000000
+      internalID: 872261180141692295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_254
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 959
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd2e183db43fc80800000000000000
+      internalID: -8290199117269640165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_255
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 959
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162ff89ce527ef60800000000000000
+      internalID: 8063455355939530266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_256
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 959
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ecf6baed972d460800000000000000
+      internalID: 7265003146167963245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_257
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 959
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03a09f5feff7440800000000000000
+      internalID: 4935944049019990185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_258
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 959
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200536035efaef40800000000000000
+      internalID: 5758694706086477870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_259
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 959
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe942fd5937ad80800000000000000
+      internalID: -8239553917591359571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_260
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 959
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91352f54558c370800000000000000
+      internalID: 8343012068610480545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_261
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 959
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864b53367269e770800000000000000
+      internalID: 8640545619894290052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_262
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 959
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5da2bf104083e20800000000000000
+      internalID: 3330416330995848646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_263
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 959
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4005c60f9da0e990800000000000000
+      internalID: -7358690892598411190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_264
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 959
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050803dfa6522720800000000000000
+      internalID: 2819911629847135502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_265
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 959
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e05a92d1527b6dd0800000000000000
+      internalID: -2491772273068191515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_266
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 959
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb08690d91f28f70800000000000000
+      internalID: 9188171846559206348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_267
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 884
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec256a4fbc3c4da0800000000000000
+      internalID: -5959321414633444114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_268
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 885
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf16412299966cc0800000000000000
+      internalID: -3718115589445247037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_269
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 885
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef4c9f064574410800000000000000
+      internalID: 1461229379589045769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_270
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 885
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483e31c244c85c340800000000000000
+      internalID: 4883463595378336644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_271
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 761
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f48138fc4756670800000000000000
+      internalID: 8531353503729733535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_272
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 761
+        width: 50
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be900514a3e0720800000000000000
+      internalID: 2814250869343251290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_273
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 777
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33772be59f2ac9fa0800000000000000
+      internalID: -5792575828785989837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_274
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 761
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8bad5eed2201cc0800000000000000
+      internalID: -3742452949610481424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_275
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 761
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff2ba31c6929f790800000000000000
+      internalID: -7495914560618287114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_276
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 646
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b9cd96ba353db80800000000000000
+      internalID: -8371255286671041652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_277
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 647
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137f2811a1c4b1ab0800000000000000
+      internalID: -5036348083437111503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_278
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 647
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654edbefd98257190800000000000000
+      internalID: -7965415706886020010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_279
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 647
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464c0d04330526c0800000000000000
+      internalID: -4168922357969435065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_280
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 646
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba033a459452caf0800000000000000
+      internalID: -377646418573980995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_281
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 646
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49097a1bbb8847f90800000000000000
+      internalID: -6956785184659763052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_282
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 646
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f77641bfad3cf0800000000000000
+      internalID: -270867226646023013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_283
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 646
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f7c39fb3dcb4f0800000000000000
+      internalID: -811541013061963278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_284
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 646
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be0e2a51ef15f20800000000000000
+      internalID: 3409785761776593737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_285
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 646
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08ef161360fb7c0800000000000000
+      internalID: -4053514330442923800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_286
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 646
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045883c5e76120f70800000000000000
+      internalID: 9151902124739167552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_287
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 646
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7065966fce59acc0800000000000000
+      internalID: -3699321374035844994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_288
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 533
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84a5adf992941e0800000000000000
+      internalID: -2213191975335999301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_289
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 534
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177242b8d7506abc0800000000000000
+      internalID: -3772321601112758415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_290
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 534
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e165c083bffee4e0800000000000000
+      internalID: -1950340442180197920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_291
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 534
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01af8d266413620800000000000000
+      internalID: 2752058237661089983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_292
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 534
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d1b16477717ff40800000000000000
+      internalID: 5762100049288568161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_293
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 435
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621d3d9c8a422b720800000000000000
+      internalID: 2860389020692893990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_294
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 435
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff0eb1f0ec0a8b0800000000000000
+      internalID: -5142884210169544927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_295
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 435
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd60c97ccc9609b50800000000000000
+      internalID: 6597889782340912863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_296
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 435
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8975d76606b3cd310800000000000000
+      internalID: 1431084066819364760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_297
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 445
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4c39de5d24184e0800000000000000
+      internalID: -1981228874484955935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_298
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 309
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb037a4c2426ad0800000000000000
+      internalID: -2710530613337604968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_299
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 313
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b513b1a38613b0800000000000000
+      internalID: -5542097560915300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_300
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 317
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5797483c4b99d4860800000000000000
+      internalID: 7515832354804627829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_301
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 339
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f4bc50e3a944570800000000000000
+      internalID: 8450048392029753101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_302
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 334
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1294f2fa6dbee7d10800000000000000
+      internalID: 2125395381460093217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_303
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 334
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063983f773d65a00800000000000000
+      internalID: 745015300516820488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_304
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 334
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f571a85a0a97fc10800000000000000
+      internalID: 2087306321536841205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_305
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 309
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528059b0c8342be00800000000000000
+      internalID: 1058983131154286629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_306
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 317
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a012812f409aab3f0800000000000000
+      internalID: -884208538118250230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_307
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 318
+        width: 95
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def62c5265d95c130800000000000000
+      internalID: 3586445671596716013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_308
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 317
+        width: 95
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde6ff847a345aa0800000000000000
+      internalID: -6173244916912165453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_309
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 308
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd34a03dd8bf560800000000000000
+      internalID: 7348623154534931828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_310
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 306
+        width: 104
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53f3496118b08d0800000000000000
+      internalID: -2879065602796866059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_311
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 174
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1dde18e48a25030800000000000000
+      internalID: 3482030517051576781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_312
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 169
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff54ee67c69f61fe0800000000000000
+      internalID: -1218512404910029313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_313
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 168
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c389fec9fb40b340800000000000000
+      internalID: 4877481932733645769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_314
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 172
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86cbfafedec2c7a0800000000000000
+      internalID: -6358292266804853110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_315
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 172
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b58552dd502a00800000000000000
+      internalID: 729686297593361611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_316
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 240
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377498d4562f9cbd0800000000000000
+      internalID: -2609287992178030733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_317
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 218
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e2f27b8901db4d0800000000000000
+      internalID: -3117317118976119271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_318
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 173
+        width: 105
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f4687ff8142b90800000000000000
+      internalID: -7267656413153529535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_319
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 174
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3917ea220172990800000000000000
+      internalID: -7410936920673250379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_320
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 174
+        width: 101
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705e0382adf00350800000000000000
+      internalID: 5981059179573301373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_321
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 110
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5d44babc431660800000000000000
+      internalID: 7355306981198749570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_322
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 131
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d78872dfcc74070800000000000000
+      internalID: 8090660643256433965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_323
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 81
+        width: 125
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038461ec1c458c780800000000000000
+      internalID: -8662580691884160976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_324
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 80
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c79c54ef6db970800000000000000
+      internalID: 8772290675784270617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_325
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5457b196fff9957f0800000000000000
+      internalID: -623291154085219003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_326
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996fc9cd320298c60800000000000000
+      internalID: 7820817566302795417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_327
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 15
+        width: 102
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1052a4715cc9200800000000000000
+      internalID: 188241988261577133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Todd Ingram_328
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 15
+        width: 105
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159abe6a12796700800000000000000
+      internalID: 534083488672552218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
