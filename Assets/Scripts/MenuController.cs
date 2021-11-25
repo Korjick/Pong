@@ -14,13 +14,4 @@ public class MenuController : MonoBehaviour
     {
         SceneManager.LoadScene(sceneName);
     }
-
-    private readonly string[] Scenes = { "PlotScene", "ArenaScene", "MultiplayerScene" };
-
-    public enum E_Scenes
-    {
-        Plot = 0,
-        Arena = 1,
-        Multiplayer = 2,
-    }
 }
