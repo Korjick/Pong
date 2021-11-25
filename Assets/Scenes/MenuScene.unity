@@ -1392,7 +1392,7 @@ MonoBehaviour:
   preview: {fileID: 688478191}
   secondPlayerPreview: {fileID: 1951598099}
   startButton: {fileID: 1579508893}
-  GameSceneName: GameScene
+  GameSceneName: MultiplayerScene
 --- !u!1 &688478189
 GameObject:
   m_ObjectHideFlags: 0
