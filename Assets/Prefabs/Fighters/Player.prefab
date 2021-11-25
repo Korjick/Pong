@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 827643391068763830}
   - component: {fileID: 3767553357176933655}
   m_Layer: 5
-  m_Name: Ryu
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -89,7 +89,7 @@ Animator:
   m_GameObject: {fileID: 827643391068763829}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b4315d18fd0b4034faaf1b99260fd901, type: 2}
+  m_Controller: {fileID: 22100000, guid: 0ce6d08c2dcb5534d9c1dc733c473731, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

@@ -9,9 +9,12 @@ public class BotController : CharacterController
 
     protected override void Movement()
     {
-        base.Movement();
+        isMoving = false;
         if (_rigidbody.velocity.magnitude < 0.01)
             botMove *= -1;
+        else isMoving = true;
         _rigidbody.velocity = botMove * force;
+        
+        base.Movement();
     }
 }

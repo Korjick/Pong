@@ -8,13 +8,14 @@ public class CharacterController : MonoBehaviour
     [SerializeField] protected float force = 700f;
     [SerializeField] protected Animator animator;
 
-    protected bool IsLeftPlayer;
+    protected bool isLeftPlayer;
+    protected bool isMoving;
 
     private void Update() => Movement();
 
-    public void Init(bool isLeftPlayer, AnimatorController animatorController)
+    public void Init(bool isLeftPlayer, AnimatorOverrideController animatorController)
     {
-        IsLeftPlayer = isLeftPlayer;
+        this.isLeftPlayer = isLeftPlayer;
         animator.runtimeAnimatorController = animatorController;
         if (!isLeftPlayer)
             transform.localScale = new Vector3(-1, 1, 1);
@@ -22,7 +23,7 @@ public class CharacterController : MonoBehaviour
 
     protected virtual void Movement()
     {
-        animator.SetFloat("Speed", _rigidbody.velocity.magnitude);
+        animator.SetBool("IsMoving", isMoving);
     }
 
     private void OnCollisionEnter2D(Collision2D other)

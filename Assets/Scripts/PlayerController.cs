@@ -15,7 +15,7 @@ public class PlayerController : CharacterController
 
     private void SetKeycodes()
     {
-        if (IsLeftPlayer)
+        if (isLeftPlayer)
         {
             _up = KeyCode.W;
             _down = KeyCode.S;
@@ -31,7 +31,7 @@ public class PlayerController : CharacterController
 
     protected override void Movement()
     {
-        base.Movement();
+        isMoving = false;
         _rigidbody.velocity = Vector2.zero;
 
         Vector2 move = Vector2.zero;
@@ -40,12 +40,17 @@ public class PlayerController : CharacterController
         if (Input.GetKey(_down))
             move += Vector2.down;
         if (move.magnitude > 0.001f)
+        {
+            isMoving = true;
             _rigidbody.velocity = move * force;
+        }
 
         if (Input.GetKey(_specialPower))
         {
             Debug.Log("Ryu use Ability");
             animator.SetTrigger("Ability");
         }
+
+        base.Movement();
     }
 }
