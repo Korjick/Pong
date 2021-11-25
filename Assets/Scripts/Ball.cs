@@ -12,7 +12,7 @@ public class Ball : MonoBehaviour
     private Rigidbody2D _rigidbody;
 
     public Rigidbody2D Rigidbody => _rigidbody;
-    
+
     private void Awake()
     {
         _beatCount = 0;
@@ -22,16 +22,16 @@ public class Ball : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.tag.Equals("Border")) _beatCount++;
+        else _beatCount = 0;
 
-        if (_beatCount <= 9) return;
-        _beatCount = 0;
-        RandomForce();
+        if (_beatCount >= 10)
+            RandomForce();
     }
 
     public void RandomForce()
     {
         var right = Random.Range(-1, 1) == 0 ? 1 : -1;
         _rigidbody.AddForce(
-            new Vector2(right * Random.Range(10, 40), Random.Range(5, 16)) * thrust, ForceMode2D.Force);
+            new Vector2(right * Random.Range(10, 30), Random.Range(5, 16)) * thrust, ForceMode2D.Force);
     }
 }

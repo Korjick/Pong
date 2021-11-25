@@ -5,37 +5,60 @@ using UnityEngine;
 
 public class SkillContainer : MonoBehaviour
 {
-    [SerializeField] private GameObject _key;
-    [SerializeField] private Transform _progress;
-    [SerializeField] private bool _isLeft = true;
+    [SerializeField] private GameObject key;
+    [SerializeField] private Transform progress;
+    [SerializeField] private bool isLeft = true;
 
-    private int _idx;
+    private int progressCellIndex, maxProgressCellIndex;
+    private bool isAbilityCharged;
 
-    private void OnEnable() 
-        => PlayerController.BallKicked += OnBallKicked;
+    private void OnEnable()
+    {
+        PlayerController.BallKicked += OnBallKicked;
+        progressCellIndex = 0;
+        maxProgressCellIndex = progress.childCount - 1;
+    }
 
     private void OnBallKicked(bool b)
     {
-        if(_isLeft == b)
-            OpenProgress();
+        if (isLeft == b)
+            ChargeAbility();
     }
 
-    private void Awake() => _idx = 0;
-
-    private void OpenProgress()
+    private void ChargeAbility()
     {
-        if(_idx == 4)
-            _key.SetActive(true);
-        if(_idx < 0 || _idx > 3)
+        ChangeProgress();
+        isAbilityCharged = progressCellIndex >= maxProgressCellIndex;
+    }
+
+    private void DischargeAbility()
+    {
+        if (!isAbilityCharged)
             return;
-        _progress.GetChild(_idx).gameObject.SetActive(true);
-        _idx++;
+
+        ClearProgress();
+        isAbilityCharged = false;
     }
 
-    private void CloseAllProgress()
+    private void ChangeProgress()
     {
-        _key.SetActive(false);
-        for (int i = 0; i < _progress.childCount; i++)
-            _progress.GetChild(i).gameObject.SetActive(false);
+        if (progressCellIndex < 0)
+            progressCellIndex = 0;
+        if (progressCellIndex >= maxProgressCellIndex)
+            return;
+
+        progress.GetChild(progressCellIndex).gameObject.SetActive(true);
+
+        progressCellIndex++;
+
+        if (progressCellIndex >= maxProgressCellIndex)
+            key.SetActive(true);
+    }
+
+    private void ClearProgress()
+    {
+        key.SetActive(false);
+        for (int i = 0; i <= maxProgressCellIndex; i++)
+            progress.GetChild(i).gameObject.SetActive(false);
     }
 }

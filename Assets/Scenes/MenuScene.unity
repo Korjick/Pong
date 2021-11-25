@@ -1380,7 +1380,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82adc57e79434ac8a29dd4da4f8a61d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fighterButtonPrefab: {fileID: -8357194781399629891, guid: e0e58b89173406a4fbbe7813e5e3946c, type: 3}
+  fighterButtonPrefab: {fileID: 4486635443017993670, guid: e0e58b89173406a4fbbe7813e5e3946c, type: 3}
   fighterSOs:
   - {fileID: 11400000, guid: 1fff8fd5a95eedf469c925699fd578fd, type: 2}
   - {fileID: 11400000, guid: 86e57a7f0421f724c92418a29ddb6bb8, type: 2}
@@ -1450,9 +1450,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: ebc025e10791bc346b1268c2e0220ebf, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -2670,7 +2670,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82adc57e79434ac8a29dd4da4f8a61d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fighterButtonPrefab: {fileID: -8357194781399629891, guid: e0e58b89173406a4fbbe7813e5e3946c, type: 3}
+  fighterButtonPrefab: {fileID: 4486635443017993670, guid: e0e58b89173406a4fbbe7813e5e3946c, type: 3}
   fighterSOs:
   - {fileID: 11400000, guid: 1fff8fd5a95eedf469c925699fd578fd, type: 2}
   - {fileID: 11400000, guid: 86e57a7f0421f724c92418a29ddb6bb8, type: 2}
@@ -3228,7 +3228,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 69656c3e37e425b409bcc2c7a867c8bf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3794,9 +3794,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: ebc025e10791bc346b1268c2e0220ebf, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -4250,7 +4250,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 69656c3e37e425b409bcc2c7a867c8bf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4684,7 +4684,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1605177088}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1228259292}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1605177088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4885,7 +4897,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1682636735}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1228259292}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1682636735
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5284,9 +5308,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: ebc025e10791bc346b1268c2e0220ebf, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1

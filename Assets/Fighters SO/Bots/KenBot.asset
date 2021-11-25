@@ -15,5 +15,5 @@ MonoBehaviour:
   icon: {fileID: 21300000, guid: 3aec7735bddb26b44b42618d6bad1478, type: 3}
   preview: {fileID: 21300000, guid: 3e7f6e8406d0d61408e909600d5eceb3, type: 3}
   name: Ken
-  battlePrefab: {fileID: 6385967300166747254, guid: d9e325a3d1c4afd48ab6792ecc7f4a64, type: 3}
+  battlePrefab: {fileID: 4201125459060024279, guid: 62feba92c400c854f86a0f6d5f42b10d, type: 3}
   animator: {fileID: 22100000, guid: ab75f968a329ff34bb6b276a7b78a621, type: 2}
