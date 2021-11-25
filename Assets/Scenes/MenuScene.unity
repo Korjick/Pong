@@ -1341,6 +1341,9 @@ MonoBehaviour:
   fighterButtonPrefab: {fileID: -8357194781399629891, guid: e0e58b89173406a4fbbe7813e5e3946c, type: 3}
   fighterSOs:
   - {fileID: 11400000, guid: 1fff8fd5a95eedf469c925699fd578fd, type: 2}
+  - {fileID: 11400000, guid: 86e57a7f0421f724c92418a29ddb6bb8, type: 2}
+  botFighterSOs:
+  - {fileID: 11400000, guid: f8ce416030bcebe42af22a292fdf3525, type: 2}
   fighterButtonsContainer: {fileID: 133562682}
   isMultiplayer: 1
   preview: {fileID: 688478191}
@@ -2529,6 +2532,9 @@ MonoBehaviour:
   fighterButtonPrefab: {fileID: -8357194781399629891, guid: e0e58b89173406a4fbbe7813e5e3946c, type: 3}
   fighterSOs:
   - {fileID: 11400000, guid: 1fff8fd5a95eedf469c925699fd578fd, type: 2}
+  - {fileID: 11400000, guid: 86e57a7f0421f724c92418a29ddb6bb8, type: 2}
+  botFighterSOs:
+  - {fileID: 11400000, guid: f8ce416030bcebe42af22a292fdf3525, type: 2}
   fighterButtonsContainer: {fileID: 348934448}
   isMultiplayer: 0
   preview: {fileID: 1291641194}

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using UnityEditor.Animations;
+using UnityEngine;
 
 namespace Assets.Scripts
 {
@@ -8,6 +9,7 @@ namespace Assets.Scripts
         public Sprite icon;
         public Sprite preview;
         public string name;
-        public GameObject battlePrefab;
+        public CharacterController battlePrefab;
+        public AnimatorController animator;
     }
 }

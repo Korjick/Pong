@@ -3,25 +3,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : CharacterController
 {
-    [SerializeField] private Rigidbody2D rigidbody;
-    [SerializeField] private bool isPlayer1;
-    [SerializeField] private float force = .1f;
-
     private KeyCode _up, _down, _specialPower;
-
-    private void Awake() => SetKeycodes();
-
-    private void Update() => Movement();
+    private void Start() => SetKeycodes();
 
     private void SetKeycodes()
     {
-        if (isPlayer1)
+        if (isLeftPlayer)
         {
             _up = KeyCode.W;
             _down = KeyCode.S;
-            _specialPower = KeyCode.E;
+            _specialPower = KeyCode.X;
         }
         else
         {
@@ -30,12 +23,24 @@ public class PlayerController : MonoBehaviour
             _specialPower = KeyCode.KeypadEnter;
         }
     }
-    
-    private void Movement()
+
+    protected override void Movement()
     {
+        base.Movement();
+        rigidbody.velocity = Vector2.zero;
+
+        Vector2 move = Vector2.zero;
         if (Input.GetKey(_up))
-            rigidbody.position += Vector2.up * force;
-        if(Input.GetKey(_down))
-            rigidbody.position += Vector2.down * force;
+            move += Vector2.up;
+        if (Input.GetKey(_down))
+            move += Vector2.down;
+        if (move.magnitude > 0.001f)
+            rigidbody.velocity = move * force;
+
+        if (Input.GetKey(_specialPower))
+        {
+            Debug.Log("Ryu use Ability");
+            animator.SetTrigger("Ability");
+        }
     }
 }

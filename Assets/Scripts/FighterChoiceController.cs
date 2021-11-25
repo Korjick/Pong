@@ -4,11 +4,13 @@ using Assets.Scripts;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using Random = UnityEngine.Random;
 
 public class FighterChoiceController : MonoBehaviour
 {
     [SerializeField] private FighterButton fighterButtonPrefab;
     [SerializeField] private FighterSO[] fighterSOs;
+    [SerializeField] private FighterSO[] botFighterSOs;
     [SerializeField] private Transform fighterButtonsContainer;
     [SerializeField] private bool isMultiplayer;
     [SerializeField] private Image preview;
@@ -32,13 +34,19 @@ public class FighterChoiceController : MonoBehaviour
 
     private void StartButton_OnClick()
     {
-        if (isMultiplayer && !isSecondPlayerChoice)
+        if (isMultiplayer)
+            if (!isSecondPlayerChoice)
+                isSecondPlayerChoice = true;
+            else
+                SceneManager.LoadSceneAsync(GameSceneName);
+        else
         {
-            isSecondPlayerChoice = true;
-            return;
-        }
+            FighterSO selectedBot = botFighterSOs[Random.Range(0, botFighterSOs.Length)];
 
-        SceneManager.LoadSceneAsync(GameSceneName);
+            PlayerData.secondPlayerChosenFighterSO = selectedBot;
+
+            SceneManager.LoadSceneAsync(GameSceneName);
+        }
     }
 
     private void FighterButton_OnButtonSelected(FighterSO fighterSO)
