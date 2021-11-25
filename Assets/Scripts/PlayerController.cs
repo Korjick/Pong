@@ -10,6 +10,8 @@ public class ScottController : PlayerController
 
 public class PlayerController : CharacterController
 {
+    public static event Action<bool> BallKicked;
+    
     private KeyCode _up, _down, _specialPower;
     private void Start() => SetKeycodes();
 
@@ -52,5 +54,14 @@ public class PlayerController : CharacterController
         }
 
         base.Movement();
+    }
+
+    protected override void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.tag.Equals("Ball"))
+        {
+            animator.SetTrigger("Kick");
+            BallKicked?.Invoke(isLeftPlayer);
+        }
     }
 }

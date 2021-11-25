@@ -1,4 +1,5 @@
-﻿using UnityEditor.Animations;
+﻿using System;
+using UnityEditor.Animations;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -26,9 +27,9 @@ public class CharacterController : MonoBehaviour
         animator.SetBool("IsMoving", isMoving);
     }
 
-    private void OnCollisionEnter2D(Collision2D other)
+    protected virtual void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.tag.Equals("Ball"))
+        if (other.gameObject.tag.Equals("Ball")) 
             animator.SetTrigger("Kick");
     }
 }
