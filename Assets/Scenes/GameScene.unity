@@ -414,6 +414,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 753736446}
+  background: {fileID: 784907108}
 --- !u!1 &640920284
 GameObject:
   m_ObjectHideFlags: 0
