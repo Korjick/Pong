@@ -32,6 +32,6 @@ public class Ball : MonoBehaviour
     {
         var right = Random.Range(-1, 1) == 0 ? 1 : -1;
         _rigidbody.AddForce(
-            new Vector2(right * Random.Range(10, 30), Random.Range(5, 16)) * thrust, ForceMode2D.Force);
+            new Vector2(right * Random.Range(2, 6), Random.Range(2, 7)) * thrust, ForceMode2D.Force);
     }
 }

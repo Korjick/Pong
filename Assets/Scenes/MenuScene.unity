@@ -975,7 +975,6 @@ MonoBehaviour:
   continueBtn: {fileID: 1268742716}
   optionsMenuBtn: {fileID: 2142624764}
   quitBtn: {fileID: 468151002}
-  playScene: Assets/Story/Scenes/Winter.unity
   optionsMenu: {fileID: 625268675}
   mainMenu: {fileID: 1312033503}
 --- !u!4 &408356257
