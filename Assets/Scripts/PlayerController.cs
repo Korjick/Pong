@@ -13,19 +13,9 @@ public class PlayerController : CharacterController
     public static event Action<bool> BallKicked;
 
     private KeyCode _up, _down, _specialPower;
-    private bool canUseAbility;
 
     private void Start() => SetKeycodes();
 
-    public override void Init(bool isLeftPlayer, AnimatorOverrideController animatorController,
-        ContainerForAbilities cfa,
-        SkillContainer skillContainer)
-    {
-        base.Init(isLeftPlayer, animatorController, cfa, skillContainer);
-
-        GameController.OnRoundFinished += () => canUseAbility = false;
-        GameController.OnRoundStarted += () => canUseAbility = true;
-    }
 
     private void SetKeycodes()
     {
