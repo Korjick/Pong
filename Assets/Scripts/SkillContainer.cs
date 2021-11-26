@@ -27,36 +27,40 @@ public class SkillContainer : MonoBehaviour
 
     private void ChargeAbility()
     {
+        if (isLeft)
+            Debug.Log("Charge Ability");
         ChangeProgress();
-        isAbilityCharged = progressCellIndex >= maxProgressCellIndex;
+        isAbilityCharged = progressCellIndex > maxProgressCellIndex;
     }
 
-    private void DischargeAbility()
+    public bool DischargeAbility()
     {
         if (!isAbilityCharged)
-            return;
+            return false;
 
         ClearProgress();
         isAbilityCharged = false;
+        return true;
     }
 
     private void ChangeProgress()
     {
         if (progressCellIndex < 0)
             progressCellIndex = 0;
-        if (progressCellIndex >= maxProgressCellIndex)
+        if (progressCellIndex > maxProgressCellIndex)
             return;
 
         progress.GetChild(progressCellIndex).gameObject.SetActive(true);
 
         progressCellIndex++;
 
-        if (progressCellIndex >= maxProgressCellIndex)
+        if (progressCellIndex > maxProgressCellIndex)
             key.SetActive(true);
     }
 
     private void ClearProgress()
     {
+        progressCellIndex = 0;
         key.SetActive(false);
         for (int i = 0; i <= maxProgressCellIndex; i++)
             progress.GetChild(i).gameObject.SetActive(false);

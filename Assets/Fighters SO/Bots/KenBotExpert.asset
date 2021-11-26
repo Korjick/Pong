@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed5083b07f504a2bbb29bdadfbd5db3d, type: 3}
-  m_Name: KenBot
+  m_Name: KenBotExpert
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 3aec7735bddb26b44b42618d6bad1478, type: 3}
   preview: {fileID: 21300000, guid: 3e7f6e8406d0d61408e909600d5eceb3, type: 3}

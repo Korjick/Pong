@@ -1,19 +1,21 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Assets.Scripts;
 using UnityEngine;
 
 public class ScottController : PlayerController
 {
-    
 }
 
 public class PlayerController : CharacterController
 {
     public static event Action<bool> BallKicked;
-    
+
     private KeyCode _up, _down, _specialPower;
+
     private void Start() => SetKeycodes();
+
 
     private void SetKeycodes()
     {
@@ -27,7 +29,7 @@ public class PlayerController : CharacterController
         {
             _up = KeyCode.UpArrow;
             _down = KeyCode.DownArrow;
-            _specialPower = KeyCode.KeypadEnter;
+            _specialPower = KeyCode.RightArrow;
         }
     }
 
@@ -49,8 +51,14 @@ public class PlayerController : CharacterController
 
         if (Input.GetKey(_specialPower))
         {
-            Debug.Log("Ryu use Ability");
-            animator.SetTrigger("Ability");
+            if (!canUseAbility)
+                return;
+
+            if (skillContainer.DischargeAbility())
+            {
+                UseAbility();
+                animator.SetTrigger("Ability");
+            }
         }
 
         base.Movement();
