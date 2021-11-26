@@ -48,7 +48,10 @@ public class GameController : MonoBehaviour
         _secondCharacter.OnChangeScore += delta => ChangeScore(true, delta);
     }
 
-    private void Start() => StartCoroutine(ResetScene());
+    private void Start()
+    {
+        StartCoroutine(ResetScene());
+    }
 
     private IEnumerator ResetScene()
     {
@@ -64,6 +67,7 @@ public class GameController : MonoBehaviour
             yield return new WaitForSeconds(1f);
         }
 
+        score.text = "Game up to " + maxScore + " points\n" + LeftScore + " : " + RightScore;
         _ball.RandomForce();
         OnRoundStarted?.Invoke();
     }
@@ -81,12 +85,14 @@ public class GameController : MonoBehaviour
             RightScore += delta;
             if (RightScore >= maxScore)
                 SceneManager.LoadScene("MenuScene");
+            else if (RightScore < 0) RightScore = 0;
         }
         else
         {
             LeftScore += delta;
             if (LeftScore >= maxScore)
                 SceneManager.LoadScene("MenuScene");
+            else if (LeftScore < 0) LeftScore = 0;
         }
 
         score.text = "Game up to " + maxScore + " points\n" + LeftScore + " : " + RightScore;

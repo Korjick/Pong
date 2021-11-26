@@ -57,7 +57,11 @@ namespace FightersScripts
                 case "Player":
                     CharacterController cc = otherGO.GetComponent<CharacterController>();
                     if (cc.IsLeftPlayer == isTargetLeft)
-                        cc.ChangeScore(-1);
+                    {
+                        cc.ChangeScore(1);
+                        PrepareDestroy();
+                    }
+
                     break;
                 case "BorderP1":
                 case "BorderP2":

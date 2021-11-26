@@ -36,7 +36,7 @@ public class IngramItem : MonoBehaviour
                 if ((cc is ToddIngramController || cc is ToddIngramBotController)
                     && cc.IsLeftPlayer == isTargetLeft)
                 {
-                    cc.ChangeScore(isMeat ? -1 : 1);
+                    cc.ChangeScore(isMeat ? 1 : -1);
                     PrepareDestroy();
                 }
 

@@ -1951,8 +1951,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ad84b0839ca97b7468f7eaed847a920f, type: 2}
   - {fileID: 11400000, guid: a06873c36977eeb4d93b1c3cdd74c55e, type: 2}
   - {fileID: 11400000, guid: b0911a10eda852d4992eec295f14078b, type: 2}
+  - {fileID: 11400000, guid: cb23c59b733af01468e03b8aaab716d2, type: 2}
+  - {fileID: 11400000, guid: 37dd78f6116e2f04f8a7a5fb288d668a, type: 2}
+  - {fileID: 11400000, guid: c9fd71b6cd8596240b92eb3477b026f7, type: 2}
   botFighterSOs:
-  - {fileID: 11400000, guid: b91ae138543c8e64989237e6febe3214, type: 2}
+  - {fileID: 11400000, guid: 350edcd28dc100f44aed67b503a1bcaa, type: 2}
   fighterButtonsContainer: {fileID: 133562682}
   isMultiplayer: 1
   preview: {fileID: 688478191}
@@ -3426,8 +3429,18 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ad84b0839ca97b7468f7eaed847a920f, type: 2}
   - {fileID: 11400000, guid: a06873c36977eeb4d93b1c3cdd74c55e, type: 2}
   - {fileID: 11400000, guid: b0911a10eda852d4992eec295f14078b, type: 2}
+  - {fileID: 11400000, guid: cb23c59b733af01468e03b8aaab716d2, type: 2}
+  - {fileID: 11400000, guid: 37dd78f6116e2f04f8a7a5fb288d668a, type: 2}
+  - {fileID: 11400000, guid: c9fd71b6cd8596240b92eb3477b026f7, type: 2}
   botFighterSOs:
-  - {fileID: 11400000, guid: b91ae138543c8e64989237e6febe3214, type: 2}
+  - {fileID: 11400000, guid: cb23c59b733af01468e03b8aaab716d2, type: 2}
+  - {fileID: 11400000, guid: b0911a10eda852d4992eec295f14078b, type: 2}
+  - {fileID: 11400000, guid: ad84b0839ca97b7468f7eaed847a920f, type: 2}
+  - {fileID: 11400000, guid: a06873c36977eeb4d93b1c3cdd74c55e, type: 2}
+  - {fileID: 11400000, guid: 04fb0274f3747a14a90594a7d32afcf9, type: 2}
+  - {fileID: 11400000, guid: 1a7533d7fad22b942b8d0568d6013b67, type: 2}
+  - {fileID: 11400000, guid: 37dd78f6116e2f04f8a7a5fb288d668a, type: 2}
+  - {fileID: 11400000, guid: 3a5f06dc9a2546c448bd36f830450938, type: 2}
   fighterButtonsContainer: {fileID: 348934448}
   isMultiplayer: 0
   preview: {fileID: 1291641194}

@@ -4,10 +4,6 @@ using System.Collections.Generic;
 using Assets.Scripts;
 using UnityEngine;
 
-public class ScottController : PlayerController
-{
-}
-
 public class PlayerController : CharacterController
 {
     public static event Action<bool> BallKicked;
