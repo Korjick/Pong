@@ -6,14 +6,14 @@ AnimatorOverrideController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Matthew Patel AOC
+  m_Name: Ken Katana AOC
   m_Controller: {fileID: 9100000, guid: b4315d18fd0b4034faaf1b99260fd901, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400000, guid: 8d75240fb015d52429afe8a359cf2058, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: a78dc907760aac14eb555560e9f8df89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f00db03ff16ac3446bf49c464f10344d, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: 630db16f4260bd847aed3f4f70edf4f4, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: 3f1efdf6dfa8ea345b983c858ce52080, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4d35b50b507ccae4cbae875e035e1529, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: fe635aad65caeb948b4e8dc4e2b7502e, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: afaf86f9f60f7d4449645f20355d11db, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 86b479a5a54c50342b10e7bb295aca96, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: 8b5980ddd0cf4ce45b89bd28d4ba3dc8, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: 7adacf31c5926fa49a93c859d39ff4c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c067d7fdccb1564c9215be4d231120e, type: 2}

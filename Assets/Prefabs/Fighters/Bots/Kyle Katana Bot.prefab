@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 827643391068763831}
   - component: {fileID: 827643391068763830}
   - component: {fileID: 1570684481651714194}
-  - component: {fileID: -5188081342412342819}
+  - component: {fileID: 8694915854738284969}
   m_Layer: 5
-  m_Name: Matthew Patel Bot
+  m_Name: Kyle Katana Bot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33,7 +33,8 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 5266692799843538687}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -90,7 +91,7 @@ Animator:
   m_GameObject: {fileID: 827643391068763829}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: 6cb8381b087737c4c8c3eeb757af18df, type: 2}
+  m_Controller: {fileID: 22100000, guid: 71b11809b362d8543a4792ba31df82e3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -178,7 +179,7 @@ PolygonCollider2D:
       - {x: 65, y: -35}
       - {x: 50, y: -75}
       - {x: 45, y: -75}
---- !u!114 &-5188081342412342819
+--- !u!114 &8694915854738284969
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -187,11 +188,46 @@ MonoBehaviour:
   m_GameObject: {fileID: 827643391068763829}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 51b50fd2444249d2a8bfc1302dbcf924, type: 3}
+  m_Script: {fileID: 11500000, guid: 23c955c78d034ca8ae14899675ad9b96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _rigidbody: {fileID: 827643391068763830}
   force: 700
   animator: {fileID: 827643391068763828}
-  rangeForRandomAbilityUse: {x: 3, y: 5}
-  fireBallPrefab: {fileID: -1857792047216711161, guid: 7a02b3242046e304e8947f9e104847e8, type: 3}
+  kenPrefab: {fileID: 2140045849657801317, guid: d9f5a852f74ac6c4193c59ff01d5aff1, type: 3}
+  kenSpawnPoint: {fileID: 5266692799843538687}
+--- !u!1 &3857409560511931020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5266692799843538687}
+  m_Layer: 5
+  m_Name: KenSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5266692799843538687
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3857409560511931020}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 827643391068763810}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 140, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}

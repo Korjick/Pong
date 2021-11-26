@@ -29,7 +29,9 @@ public class CharacterController : MonoBehaviour
         this.isLeftPlayer = isLeftPlayer;
         this.cfa = cfa;
         this.skillContainer = skillContainer;
-        animator.runtimeAnimatorController = animatorController;
+        
+        if (animatorController) animator.runtimeAnimatorController = animatorController;
+        
         if (!isLeftPlayer)
             transform.localScale = new Vector3(-1, 1, 1);
 

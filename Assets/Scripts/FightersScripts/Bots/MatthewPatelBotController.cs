@@ -7,6 +7,8 @@ namespace FightersScripts
 {
     public class MatthewPatelBotController : NormalBotController
     {
+        [SerializeField] private Vector2 rangeForRandomAbilityUse = new Vector2(3f, 5f);
+        private float timerMaxTime, time;
         [SerializeField] private FireBall fireBallPrefab;
         private Ball ball;
 
@@ -16,6 +18,25 @@ namespace FightersScripts
         {
             base.Init(isLeftPlayer, animatorController, cfa, container);
             ball = cfa.Ball;
+
+            timerMaxTime = Random.Range(rangeForRandomAbilityUse.x, rangeForRandomAbilityUse.y);
+        }
+
+        protected override void Update()
+        {
+            base.Update();
+
+            if (canUseAbility)
+            {
+                time += Time.deltaTime;
+                if (time >= timerMaxTime)
+                {
+                    time = 0f;
+                    UseAbility();
+                    timerMaxTime = Random.Range(rangeForRandomAbilityUse.x, rangeForRandomAbilityUse.y);
+                }
+            }
+            else time = 0f;
         }
 
         protected override void UseAbility()

@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 827643391068763831}
   - component: {fileID: 827643391068763830}
   - component: {fileID: 1570684481651714194}
-  - component: {fileID: -5188081342412342819}
+  - component: {fileID: 2140045849657801317}
   m_Layer: 5
-  m_Name: Matthew Patel Bot
+  m_Name: Ken Katana Bot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -90,7 +90,7 @@ Animator:
   m_GameObject: {fileID: 827643391068763829}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: 6cb8381b087737c4c8c3eeb757af18df, type: 2}
+  m_Controller: {fileID: 22100000, guid: 66b4f28e8a6d844468d34006b2368642, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -178,7 +178,7 @@ PolygonCollider2D:
       - {x: 65, y: -35}
       - {x: 50, y: -75}
       - {x: 45, y: -75}
---- !u!114 &-5188081342412342819
+--- !u!114 &2140045849657801317
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -187,11 +187,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 827643391068763829}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 51b50fd2444249d2a8bfc1302dbcf924, type: 3}
+  m_Script: {fileID: 11500000, guid: 7a5ac4cc55de4859a6fe190a926985fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _rigidbody: {fileID: 827643391068763830}
   force: 700
   animator: {fileID: 827643391068763828}
-  rangeForRandomAbilityUse: {x: 3, y: 5}
-  fireBallPrefab: {fileID: -1857792047216711161, guid: 7a02b3242046e304e8947f9e104847e8, type: 3}
