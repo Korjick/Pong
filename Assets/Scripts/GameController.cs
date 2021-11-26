@@ -24,6 +24,7 @@ public class GameController : MonoBehaviour
     private CharacterController _firstCharacter, _secondCharacter;
 
     [Header("UI")] [SerializeField] private Text score;
+    [SerializeField] private ResultScreen resultScreen;
 
     public int LeftScore { get; private set; }
     public int RightScore { get; private set; }
@@ -74,27 +75,37 @@ public class GameController : MonoBehaviour
 
     private void BordersController_OnGoal(bool isLeftPlayer)
     {
-        ChangeScore(isLeftPlayer, 1);
+        if (!ChangeScore(isLeftPlayer, 1))
+            return;
         StartCoroutine(ResetScene());
     }
 
-    private void ChangeScore(bool isLeftPlayer, int delta)
+    private bool ChangeScore(bool isLeftPlayer, int delta)
     {
         if (isLeftPlayer)
         {
             RightScore += delta;
             if (RightScore >= maxScore)
-                SceneManager.LoadScene("MenuScene");
-            else if (RightScore < 0) RightScore = 0;
+            {
+                resultScreen.Enable();
+                return false;
+            }
+
+            if (RightScore < 0) RightScore = 0;
         }
         else
         {
             LeftScore += delta;
             if (LeftScore >= maxScore)
-                SceneManager.LoadScene("MenuScene");
-            else if (LeftScore < 0) LeftScore = 0;
+            {
+                resultScreen.Enable();
+                return false;
+            }
+
+            if (LeftScore < 0) LeftScore = 0;
         }
 
         score.text = "Game up to " + maxScore + " points\n" + LeftScore + " : " + RightScore;
+        return true;
     }
 }

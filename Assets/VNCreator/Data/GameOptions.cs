@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +7,9 @@ namespace VNCreator
 {
     public static class GameOptions
     {
+        public static event Action<float> OnSoundVolumeChanged;
+        public static event Action<float> OnMusicVolumeChanged;
+        
         public static float musicVolume = 0.5f;
         public static float sfxVolume = 0.5f;
         public static float readSpeed = 0.5f;
@@ -27,12 +31,14 @@ namespace VNCreator
         {
             musicVolume = index;
             PlayerPrefs.SetFloat("MusicVolume", index);
+            OnMusicVolumeChanged?.Invoke(index);
         }
 
         public static void SetSFXVolume(float index)
         {
             sfxVolume = index;
             PlayerPrefs.SetFloat("SfxVolume", index);
+            OnSoundVolumeChanged?.Invoke(index);
         }
 
         public static void SetReadingSpeed(float index)

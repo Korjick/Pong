@@ -7,19 +7,17 @@ namespace Assets.Scripts
     {
         public static FighterSO chosenFighterSO;
         public static FighterSO secondPlayerChosenFighterSO;
-        public static int plotStep;
-        public static List<FighterSO> arenaFighters = new List<FighterSO>();
 
-        public static bool isSoundDisabled
+        public static float SoundVolume
         {
-            get { return PlayerPrefs.GetInt("Sound", 0) == 0; }
-            set { PlayerPrefs.SetInt("Sound", value ? 1 : 0); }
+            get { return PlayerPrefs.GetFloat("SfxVolume", 0); }
+            set { PlayerPrefs.SetFloat("SfxVolume", value); }
         }
 
-        public static bool isMusicDisabled
+        public static float MusicVolume
         {
-            get { return PlayerPrefs.GetInt("Music", 0) == 0; }
-            set { PlayerPrefs.SetInt("Music", value ? 1 : 0); }
+            get { return PlayerPrefs.GetFloat("MusicVolume", 0); }
+            set { PlayerPrefs.SetFloat("MusicVolume", value); }
         }
     }
 }

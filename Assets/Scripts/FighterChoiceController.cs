@@ -34,11 +34,18 @@ public class FighterChoiceController : MonoBehaviour
 
     private void StartButton_OnClick()
     {
+        if (PlayerData.chosenFighterSO == null)
+            return;
+
         if (isMultiplayer)
             if (!isSecondPlayerChoice)
                 isSecondPlayerChoice = true;
             else
+            {
+                if (PlayerData.secondPlayerChosenFighterSO == null)
+                    return;
                 SceneManager.LoadSceneAsync(GameSceneName);
+            }
         else
         {
             FighterSO selectedBot = botFighterSOs[Random.Range(0, botFighterSOs.Length)];
