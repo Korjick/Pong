@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace FightersScripts
 {
-    public class MatthewPatelBotController : BotController
+    public class MatthewPatelBotController : NormalBotController
     {
         [SerializeField] private FireBall fireBallPrefab;
         private Ball ball;

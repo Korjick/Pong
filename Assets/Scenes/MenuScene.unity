@@ -2678,7 +2678,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a7533d7fad22b942b8d0568d6013b67, type: 2}
   - {fileID: 11400000, guid: 04fb0274f3747a14a90594a7d32afcf9, type: 2}
   botFighterSOs:
-  - {fileID: 11400000, guid: f8ce416030bcebe42af22a292fdf3525, type: 2}
+  - {fileID: 11400000, guid: 111ee8038df62ed4f9b28c3c6aa3c7b6, type: 2}
   fighterButtonsContainer: {fileID: 348934448}
   isMultiplayer: 0
   preview: {fileID: 1291641194}
