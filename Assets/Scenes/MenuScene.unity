@@ -1949,8 +1949,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a7533d7fad22b942b8d0568d6013b67, type: 2}
   - {fileID: 11400000, guid: 04fb0274f3747a14a90594a7d32afcf9, type: 2}
   - {fileID: 11400000, guid: ad84b0839ca97b7468f7eaed847a920f, type: 2}
+  - {fileID: 11400000, guid: a06873c36977eeb4d93b1c3cdd74c55e, type: 2}
   botFighterSOs:
-  - {fileID: 11400000, guid: 528848a2ba46d7445b4149803556b771, type: 2}
+  - {fileID: 11400000, guid: 4d54cc7efbd138543aff271190a2146d, type: 2}
   fighterButtonsContainer: {fileID: 133562682}
   isMultiplayer: 1
   preview: {fileID: 688478191}
@@ -3422,8 +3423,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a7533d7fad22b942b8d0568d6013b67, type: 2}
   - {fileID: 11400000, guid: 04fb0274f3747a14a90594a7d32afcf9, type: 2}
   - {fileID: 11400000, guid: ad84b0839ca97b7468f7eaed847a920f, type: 2}
+  - {fileID: 11400000, guid: a06873c36977eeb4d93b1c3cdd74c55e, type: 2}
   botFighterSOs:
-  - {fileID: 11400000, guid: 528848a2ba46d7445b4149803556b771, type: 2}
+  - {fileID: 11400000, guid: 4d54cc7efbd138543aff271190a2146d, type: 2}
   fighterButtonsContainer: {fileID: 348934448}
   isMultiplayer: 0
   preview: {fileID: 1291641194}
