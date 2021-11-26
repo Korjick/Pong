@@ -6,7 +6,7 @@ using UnityEngine.Serialization;
 
 public class CharacterController : MonoBehaviour
 {
-    public event Action OnGetDamage;
+    public event Action<int> OnChangeScore;
 
     [SerializeField] protected Rigidbody2D _rigidbody;
 
@@ -55,9 +55,9 @@ public class CharacterController : MonoBehaviour
         Debug.Log(gameObject.name + " has no ability");
     }
 
-    public void GetDamage()
+    public void ChangeScore(int delta)
     {
         Debug.Log(gameObject.name + " damaged");
-        OnGetDamage?.Invoke();
+        OnChangeScore?.Invoke(delta);
     }
 }

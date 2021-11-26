@@ -41,11 +41,11 @@ public class GameController : MonoBehaviour
 
         _firstCharacter = Instantiate(firstFso.battlePrefab, leftSpawnPoint);
         _firstCharacter.Init(true, firstFso.animator, _cfa, leftSkillContainer);
-        _firstCharacter.OnGetDamage += () => BordersController_OnGoal(false);
+        _firstCharacter.OnChangeScore += delta => ChangeScore(false, delta);
 
         _secondCharacter = Instantiate(secondFso.battlePrefab, rightSpawnPoint);
         _secondCharacter.Init(false, secondFso.animator, _cfa, rightSkillContainer);
-        _secondCharacter.OnGetDamage += () => BordersController_OnGoal(true);
+        _secondCharacter.OnChangeScore += delta => ChangeScore(true, delta);
     }
 
     private void Start() => StartCoroutine(ResetScene());
@@ -64,26 +64,31 @@ public class GameController : MonoBehaviour
             yield return new WaitForSeconds(1f);
         }
 
-        score.text = "Game up to " + maxScore + " points\n" + LeftScore + " : " + RightScore;
         _ball.RandomForce();
         OnRoundStarted?.Invoke();
     }
 
     private void BordersController_OnGoal(bool isLeftPlayer)
     {
+        ChangeScore(isLeftPlayer, 1);
+        StartCoroutine(ResetScene());
+    }
+
+    private void ChangeScore(bool isLeftPlayer, int delta)
+    {
         if (isLeftPlayer)
         {
-            RightScore++;
+            RightScore += delta;
             if (RightScore >= maxScore)
                 SceneManager.LoadScene("MenuScene");
         }
         else
         {
-            LeftScore++;
+            LeftScore += delta;
             if (LeftScore >= maxScore)
                 SceneManager.LoadScene("MenuScene");
         }
 
-        StartCoroutine(ResetScene());
+        score.text = "Game up to " + maxScore + " points\n" + LeftScore + " : " + RightScore;
     }
 }

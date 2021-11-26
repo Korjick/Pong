@@ -20,9 +20,9 @@ namespace FightersScripts
 
         protected override void UseAbility()
         {
-            Instantiate(fireBallPrefab, ball.transform.position, Quaternion.identity, transform)
+            Instantiate(fireBallPrefab, ball.transform.position, Quaternion.identity, transform.parent)
                 .Init(ball, true, isLeftPlayer);
-            Instantiate(fireBallPrefab, ball.transform.position, Quaternion.identity, transform)
+            Instantiate(fireBallPrefab, ball.transform.position, Quaternion.identity, transform.parent)
                 .Init(ball, false, isLeftPlayer);
         }
     }

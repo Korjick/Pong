@@ -1,5 +1,40 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &656964853361380383
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 66858276873087259}
+  m_Layer: 0
+  m_Name: ThrowPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &66858276873087259
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656964853361380383}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 827643391068763810}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 140, y: 40}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &827643391068763829
 GameObject:
   m_ObjectHideFlags: 0
@@ -15,9 +50,9 @@ GameObject:
   - component: {fileID: 827643391068763831}
   - component: {fileID: 827643391068763830}
   - component: {fileID: 1570684481651714194}
-  - component: {fileID: -7132472826852048440}
+  - component: {fileID: 1356716129858381354}
   m_Layer: 5
-  m_Name: Matthew Patel Player
+  m_Name: Todd Ingram Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36,6 +71,7 @@ RectTransform:
   m_Children:
   - {fileID: 6092209799808348510}
   - {fileID: 6375687750189161756}
+  - {fileID: 66858276873087259}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -92,7 +128,7 @@ Animator:
   m_GameObject: {fileID: 827643391068763829}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: 6cb8381b087737c4c8c3eeb757af18df, type: 2}
+  m_Controller: {fileID: 22100000, guid: 013efe29c8e1a69479781ba985c8bb65, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -180,7 +216,7 @@ PolygonCollider2D:
       - {x: 65, y: -35}
       - {x: 50, y: -75}
       - {x: 45, y: -75}
---- !u!114 &-7132472826852048440
+--- !u!114 &1356716129858381354
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,13 +225,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 827643391068763829}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c662e0168548404bb1569a5c8c26a387, type: 3}
+  m_Script: {fileID: 11500000, guid: 2249bd91caa70fa4dbd6f99038d254f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _rigidbody: {fileID: 827643391068763830}
   force: 700
   animator: {fileID: 827643391068763828}
-  fireBallPrefab: {fileID: -1857792047216711161, guid: 7a02b3242046e304e8947f9e104847e8, type: 3}
+  meatPrefab: {fileID: 5631257527422958429, guid: 5df4f46c4cab29843ab7aa14bc118c7c, type: 3}
+  vegetablePrefab: {fileID: 4268458266449984419, guid: 86f699deb05b7394d8f2bff381f8255d, type: 3}
+  throwPos: {fileID: 66858276873087259}
 --- !u!1 &3584805465028509045
 GameObject:
   m_ObjectHideFlags: 0

@@ -17,6 +17,7 @@ namespace FightersScripts
             rigidbody.velocity = isLeftBall ? rotateVector2(velocity, 110) : rotateVector2(velocity, -110);
 
             Physics2D.IgnoreCollision(ball.GetComponent<Collider2D>(), GetComponent<Collider2D>());
+            Physics2D.IgnoreLayerCollision(gameObject.layer, gameObject.layer);
 
             GameController.OnRoundFinished += PrepareDestroy;
         }
@@ -56,7 +57,7 @@ namespace FightersScripts
                 case "Player":
                     CharacterController cc = otherGO.GetComponent<CharacterController>();
                     if (cc.IsLeftPlayer == isTargetLeft)
-                        cc.GetDamage();
+                        cc.ChangeScore(-1);
                     break;
                 case "BorderP1":
                 case "BorderP2":

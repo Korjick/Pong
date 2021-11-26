@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Todd Ingram AOC
+  m_Controller: {fileID: 9100000, guid: b4315d18fd0b4034faaf1b99260fd901, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8d75240fb015d52429afe8a359cf2058, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cc70decbcc4edad4e8a95547018d3490, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 630db16f4260bd847aed3f4f70edf4f4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21b236994faaee840aa8ebc1238c782a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fe635aad65caeb948b4e8dc4e2b7502e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8ce66974d63c4c44296f610d9d3d9570, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8b5980ddd0cf4ce45b89bd28d4ba3dc8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4d8963c9b826cbd4593e19f20bbb24e7, type: 2}

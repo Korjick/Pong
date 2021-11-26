@@ -1,16 +1,21 @@
-﻿using UnityEngine;
+﻿using FightersScripts;
+using UnityEngine;
 
 public class IngramItem : MonoBehaviour
 {
     [SerializeField] private bool isMeat;
     [SerializeField] private Rigidbody2D rigidbody;
+    private float force = 1000f;
     private bool isTargetLeft;
 
-    public void Init(bool isParentLeft)
+    public void Init(bool isParentLeft, Ball ball)
     {
-        isTargetLeft = !isParentLeft;
+        Physics2D.IgnoreCollision(ball.GetComponent<Collider2D>(), GetComponent<Collider2D>());
+        Physics2D.IgnoreLayerCollision(gameObject.layer, gameObject.layer);
 
-        rigidbody.velocity = isParentLeft ? Vector2.right : Vector2.left;
+        isTargetLeft = isParentLeft;
+
+        rigidbody.velocity = (isParentLeft ? Vector2.right : Vector2.left) * force;
 
         GameController.OnRoundFinished += PrepareDestroy;
     }
@@ -23,14 +28,18 @@ public class IngramItem : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log("Fireball Contact: " + other.gameObject.name);
         GameObject otherGO = other.gameObject;
         switch (otherGO.tag)
         {
             case "Player":
                 CharacterController cc = otherGO.GetComponent<CharacterController>();
-                if (cc.IsLeftPlayer == isTargetLeft)
-                    cc.GetDamage();
+                if ((cc is ToddIngramController || cc is ToddIngramBotController)
+                    && cc.IsLeftPlayer == isTargetLeft)
+                {
+                    cc.ChangeScore(isMeat ? -1 : 1);
+                    PrepareDestroy();
+                }
+
                 break;
             case "BorderP1":
             case "BorderP2":

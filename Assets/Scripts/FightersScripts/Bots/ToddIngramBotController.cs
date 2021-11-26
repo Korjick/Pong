@@ -5,11 +5,13 @@ using UnityEngine;
 
 namespace FightersScripts
 {
-    public class MatthewPatelBotController : NormalBotController
+    public class ToddIngramBotController : NormalBotController
     {
         [SerializeField] private Vector2 rangeForRandomAbilityUse = new Vector2(3f, 5f);
         private float timerMaxTime, time;
-        [SerializeField] private FireBall fireBallPrefab;
+        [SerializeField] private IngramItem meatPrefab, vegetablePrefab;
+        [SerializeField] private Transform throwPos;
+        private float vegetableChance = 0.7f;
         private Ball ball;
 
         public override void Init(bool isLeftPlayer,
@@ -41,21 +43,12 @@ namespace FightersScripts
 
         protected override void UseAbility()
         {
-            Instantiate(fireBallPrefab, ball.transform.position, Quaternion.identity, transform.parent)
-                .Init(ball, true, isLeftPlayer);
-            Instantiate(fireBallPrefab, ball.transform.position, Quaternion.identity, transform.parent)
-                .Init(ball, false, isLeftPlayer);
-        }
-
-        [CustomEditor(typeof(MatthewPatelBotController))]
-        public class MPBCEditor : Editor
-        {
-            public override void OnInspectorGUI()
-            {
-                DrawDefaultInspector();
-                if (GUILayout.Button("Use Ability"))
-                    ((MatthewPatelBotController)target).UseAbility();
-            }
+            if (Random.Range(0f, 1f) < vegetableChance)
+                Instantiate(vegetablePrefab, throwPos.position, Quaternion.identity, transform.parent)
+                    .Init(isLeftPlayer, ball);
+            else
+                Instantiate(meatPrefab, throwPos.position, Quaternion.identity, transform.parent)
+                    .Init(isLeftPlayer, ball);
         }
     }
 }
