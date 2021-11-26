@@ -18,6 +18,18 @@ EditorBuildSettings:
     path: Assets/Scenes/TestBattleScene.unity
     guid: 5ddc30d43007ba6449e6460d453b92bc
   - enabled: 1
+    path: Assets/VNCreator/_Demo/Scenes/PlayScene.unity
+    guid: 8d66d048c6b5bd045a648e731464ebcc
+  - enabled: 1
     path: Assets/Scenes/MultiplayerScene.unity
     guid: f9d272910703227458e04544c31edaca
+  - enabled: 1
+    path: Assets/VNCreator/_Demo/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Story/Scenes/Winter.unity
+    guid: 8ab73cb6c9d4b5040aa5ac2500c2bd4e
+  - enabled: 1
+    path: Assets/Story/Scenes/Bar.unity
+    guid: b3540984326132140bc3e66738407f94
   m_configObjects: {}
