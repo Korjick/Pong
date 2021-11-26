@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
 public class Ball : MonoBehaviour
@@ -10,13 +11,16 @@ public class Ball : MonoBehaviour
 
     private int _beatCount;
     private Rigidbody2D _rigidbody;
+    private Image image;
 
     public Rigidbody2D Rigidbody => _rigidbody;
+    public Image Image => image;
 
     private void Awake()
     {
         _beatCount = 0;
         _rigidbody = GetComponent<Rigidbody2D>();
+        image = GetComponent<Image>();
     }
 
     private void OnCollisionEnter2D(Collision2D other)

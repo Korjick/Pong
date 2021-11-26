@@ -6,7 +6,7 @@ AnimatorOverrideController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rocksana AOC
+  m_Name: Roksi Rihter AOC
   m_Controller: {fileID: 9100000, guid: b4315d18fd0b4034faaf1b99260fd901, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400000, guid: 8d75240fb015d52429afe8a359cf2058, type: 2}

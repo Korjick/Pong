@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed5083b07f504a2bbb29bdadfbd5db3d, type: 3}
-  m_Name: Rocksana
+  m_Name: Roksi Rihter
   m_EditorClassIdentifier: 
   icon: {fileID: -2814901503407648248, guid: e4fc2e9a826bc4c4393a06391894ddb2, type: 3}
   preview: {fileID: 6223623180863850752, guid: e4fc2e9a826bc4c4393a06391894ddb2, type: 3}
-  name: Rocksana Rihter
-  battlePrefab: {fileID: 3767553357176933655, guid: 611d226c0fcc1a04fa77877d6dc601e6, type: 3}
+  name: Roksi Rihter
+  battlePrefab: {fileID: -1632561834716064591, guid: 6c8008c1aed105c499bdd6d90717c292, type: 3}
   animator: {fileID: 22100000, guid: 0ce6d08c2dcb5534d9c1dc733c473731, type: 2}
